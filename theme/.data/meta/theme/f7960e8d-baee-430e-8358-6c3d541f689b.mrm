@@ -1,0 +1,484 @@
+{
+  "localId": "f7960e8d-baee-430e-8358-6c3d541f689b",
+  "onlineId": "bd893422-bb10-442f-88bc-dd4bcb4fc5da",
+  "assemblyId": "e5f1bb42-2791-46da-a52d-c5de0329da4a",
+  "productId": "e5f1bb42-2791-46da-a52d-c5de0329da4a",
+  "hash": "b2728f92b46dfb9ab61f0edc55d76bd82d9ecc0d",
+  "platform": 10,
+  "size": 29429463,
+  "updatedTime": 1406786563035,
+  "version": "1.3",
+  "authors": {
+    "en_US": "Rafael Henrique",
+    "zh_CN": "Rafael Henrique",
+    "fallback": "Rafael Henrique"
+  },
+  "designers": {
+    "en_US": "Rafael Henrique",
+    "zh_CN": "Rafael Henrique",
+    "fallback": "Rafael Henrique"
+  },
+  "titles": {
+    "en_US": "iPhone 12",
+    "zh_CN": "iPhone 12",
+    "fallback": "iPhone 12"
+  },
+  "descriptions": {
+    "en_US": "Make a donation to support my work: http://bit.ly/2KHQ140\nJoin my Telegram channel to stay on top of new themes and updates: http://t.me/MIUIThemesRH\nLink for download the theme wallpapers: http://bit.ly/2LNTE8N\n\nNotes:\n- To change the widget, double click on the widget name.\n- If the dialer, contacts and messaging apps of your device are from Google, it won't change, just the official Xiaomi dialer and messaging app.\n- The best DPI value is 392.\n- If you want to have the iOS style dock, don't apply other wallpapers, otherwise the blur of the dock will disappear.\n- This is just a theme, so don't expect your device to be 100% identical to an iPhone. If you don't like it, I suggest you buy an iPhone and don't complain to me or give a bad grade to the theme. Thank you for understanding!\n\nIf you have any other questions, ask me on Telegram: @Rafael_Henrique",
+    "fallback": ""
+  },
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_lockscreen_0.jpg",
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg",
+      "en_US_miwallpaper_0.jpg",
+      "en_US_statusbar_0.jpg",
+      "en_US_statusbar_1.jpg",
+      "en_US_contact_0.jpg",
+      "en_US_mms_0.jpg",
+      "en_US_mms_1.jpg",
+      "en_US_clock_2x4_0.png"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_lockscreen_0.jpg",
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg",
+      "en_US_miwallpaper_0.jpg",
+      "en_US_statusbar_0.jpg",
+      "en_US_statusbar_1.jpg",
+      "en_US_contact_0.jpg",
+      "en_US_mms_0.jpg",
+      "en_US_mms_1.jpg",
+      "en_US_clock_2x4_0.png"
+    ]
+  },
+  "thumbnails": [
+    {
+      "localPath": "0458f989e81cc4764ab38ac7ca431358574cadd50",
+      "onlinePath": "http://t5.market.xiaomi.com/thumbnail/webp/w322q90/ThemeMarket/0458f989e81cc4764ab38ac7ca431358574cadd50"
+    }
+  ],
+  "previews": [
+    {
+      "localPath": "0458f989e81cc4764ab38ac7ca431358574cadd50",
+      "onlinePath": "http://t5.market.xiaomi.com/thumbnail/webp/w1080q70/ThemeMarket/0458f989e81cc4764ab38ac7ca431358574cadd50"
+    },
+    {
+      "localPath": "07efb9255593c4fa8b85d80671193276b57c2883d",
+      "onlinePath": "http://t5.market.xiaomi.com/thumbnail/webp/w1080q70/ThemeMarket/07efb9255593c4fa8b85d80671193276b57c2883d"
+    },
+    {
+      "localPath": "08ebdd860a2594de0931acab7422b09e198c071df",
+      "onlinePath": "http://t5.market.xiaomi.com/thumbnail/webp/w1080q70/ThemeMarket/08ebdd860a2594de0931acab7422b09e198c071df"
+    },
+    {
+      "localPath": "069b9ef3606e347cf94ace75e0ba54a1a1e4a6809",
+      "onlinePath": "http://t5.market.xiaomi.com/thumbnail/webp/w1080q70/ThemeMarket/069b9ef3606e347cf94ace75e0ba54a1a1e4a6809"
+    },
+    {
+      "localPath": "08f001e4b4471429f9c9eac3de3849f5b82ca1aed",
+      "onlinePath": "http://t5.market.xiaomi.com/thumbnail/webp/w1080q70/ThemeMarket/08f001e4b4471429f9c9eac3de3849f5b82ca1aed"
+    },
+    {
+      "localPath": "0e0cf4d08c634d12bbc09187c3ec0522625432589",
+      "onlinePath": "http://t5.market.xiaomi.com/thumbnail/webp/w1080q70/ThemeMarket/0e0cf4d08c634d12bbc09187c3ec0522625432589"
+    },
+    {
+      "localPath": "011ab758ee7a14536278d55f11b69d194e29b5d84",
+      "onlinePath": "http://t5.market.xiaomi.com/thumbnail/webp/w1080q70/ThemeMarket/011ab758ee7a14536278d55f11b69d194e29b5d84"
+    },
+    {
+      "localPath": "0757342f83aee6d94f9377ba0ba0c0fbdaf407de7",
+      "onlinePath": "http://t5.market.xiaomi.com/thumbnail/webp/w1080q70/ThemeMarket/0757342f83aee6d94f9377ba0ba0c0fbdaf407de7"
+    }
+  ],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "3b45b1d2-d612-434e-a5a6-2bb9025ec080",
+      "resourceCode": "contact",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "ee43648a-8301-473f-aeee-49e1be7fb963",
+      "resourceCode": "wallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "201d29e4-af6e-49c5-9424-4cf12ba9b14d",
+      "resourceCode": "ringtone",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "654a2e48-b5c3-4ada-a69b-b126f5f655b3",
+      "resourceCode": "lockstyle",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "bfabd175-b02c-491f-9f31-7febf8802755",
+      "resourceCode": "bootanimation",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "1de83dd5-15db-4dcb-85aa-0915849f4352",
+      "resourceCode": "mms",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "602b9104-4698-4f72-a116-2a2babdeb52f",
+      "resourceCode": "framework",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "7eac19b2-1f8d-4bbb-a62a-bba472246b8b",
+      "resourceCode": "notification",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "216d1f74-0ce5-43f9-8d44-03944201f964",
+      "resourceCode": "launcher",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "25773e7d-878f-461c-96d3-daa169f5faf7",
+      "resourceCode": "statusbar",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "fb2ed68d-3448-4925-9bf0-026b308ab148",
+      "resourceCode": "lockscreen",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "40d91353-f410-446f-9ee9-e8472a82dc3b",
+      "resourceCode": "com.microsoft.office.excel",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "68155327-78d1-401f-9d37-53d5494bc2e0",
+      "resourceCode": "com.miui.notes",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "3c342aef-185b-4121-a27e-138ced4aa4bd",
+      "resourceCode": "com.google.android.apps.googleassistant",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "f0f0b6a7-460b-4245-aaab-6979038ce01f",
+      "resourceCode": "com.miui.mishare.connectivity",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "28a92843-f67c-4175-9a46-366df81dc997",
+      "resourceCode": "miui.systemui.plugin",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "e720160a-20a4-4508-a81c-664606ebe30f",
+      "resourceCode": "clock_2x4",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "ac6b4190-c0d0-4b33-89ef-0d69ae12fba5",
+      "resourceCode": "com.miui.player",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "c82933c3-86ba-4fd3-b498-2f7fb87f1861",
+      "resourceCode": "com.google.android.apps.youtube.music",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "b65fd6d3-c52b-4fb5-8e18-1f1e81152d62",
+      "resourceCode": "com.android.email",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "c2c6de7b-b134-4738-9d17-a87f85465ea6",
+      "resourceCode": "com.android.settings",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "6169aae8-8594-48d8-90d2-bc410be6dc24",
+      "resourceCode": "com.miui.securitycenter",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "adf80b3a-242e-422e-a76a-fe6713425c6a",
+      "resourceCode": "com.android.soundrecorder",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "28a54631-b193-4ab5-823b-e2c68b4e5a35",
+      "resourceCode": "com.miui.securitycore",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "b0bd3959-be22-40ba-a05b-c3dd465e599f",
+      "resourceCode": "com.mi.globalbrowser",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "dd4134b4-3522-4755-b4ed-f24cbb720b2c",
+      "resourceCode": "com.google.android.play.games",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "c8029e4a-fac2-4873-9c43-55de59b8fe8b",
+      "resourceCode": "com.android.incallui",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "4e849bba-d80a-496d-8032-01879b8b22d5",
+      "resourceCode": "com.xiaomi.midrop",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "231f6b18-b189-444b-96ce-a6a99cc647bc",
+      "resourceCode": "com.duokan.phone.remotecontroller",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "726f6112-310a-454d-a3d3-b4d9cc8fddad",
+      "resourceCode": "com.xiaomi.hm.health",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "45036973-5ccb-430b-8e41-e14da1bbc05b",
+      "resourceCode": "com.mi.android.globalFileexplorer",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "6c87597c-ca98-4003-b4dc-2ff5eac36cbb",
+      "resourceCode": "com.miui.cloudservice",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "9a70b840-9c27-4562-89d8-7e33cee25d07",
+      "resourceCode": "com.xiaomi.market",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "eda8a291-9272-49bd-9e46-a813f47fd325",
+      "resourceCode": "com.google.android.apps.magazines",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "123c7718-8f7e-4a4d-a814-74021932bd55",
+      "resourceCode": "com.miui.cloudbackup",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "6b296c09-bfb1-4015-8c74-4b7ed4791986",
+      "resourceCode": "com.android.fileexplorer",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "e3cbbe07-cedf-457a-8fca-7284938bc3ea",
+      "resourceCode": "com.xiaomi.mipicks",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "72b7bcfd-40c5-43c8-a34a-46b24eeede05",
+      "resourceCode": "com.android.deskclock",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "b62ac69e-54af-4be8-a2aa-748d72e5f366",
+      "resourceCode": "com.milink.service",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "c4bae95e-2fc0-4d56-9f30-c616fb782efb",
+      "resourceCode": "com.google.android.videos",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "b813c8ee-4132-46ab-8c13-5fa47a1d6c68",
+      "resourceCode": "icons",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "bef8fe42-620c-4a00-9020-f9d41beea2ac",
+      "resourceCode": "com.microsoft.office.powerpoint",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "8cf83cc8-a19e-47fe-83a4-1389640aff30",
+      "resourceCode": "com.microsoft.office.word",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "825a7dbd-adb5-409f-aa14-ad9e1e980caa",
+      "resourceCode": "com.miui.bugreport",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "00a39050-0f82-4633-b202-27b04338424e",
+      "resourceCode": "com.xiaomi.account",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "07075da9-c925-4c98-9e21-b915f4c035f1",
+      "resourceCode": "com.miui.touchassistant",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "d8a44946-6d8a-4f1d-a183-f01a8e7ca5ae",
+      "resourceCode": "com.android.browser",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "e1912b72-7f0c-4dc3-9b6f-5f6ebc51a205",
+      "resourceCode": "com.android.stk",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "9237aa19-aa23-4212-b82b-e93904ba64f6",
+      "resourceCode": "com.android.thememanager",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "0ed6a5b5-c18e-472d-86c6-eae3c7ba06a9",
+      "resourceCode": "miwallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "59d347ef-947a-424c-a85a-2e30bb28a1e4",
+      "resourceCode": "framework-miui-res",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "6423b37a-a2ad-4cef-9810-dd17895002b6",
+      "resourceCode": "com.miui.calculator",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "eaa600bb-f384-4918-9342-6e017935b1fc",
+      "resourceCode": "com.miui.screenrecorder",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "aa294ddf-c3d8-48f2-b4f6-c257a8527d7e",
+      "resourceCode": "com.miui.miservice",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null
+}

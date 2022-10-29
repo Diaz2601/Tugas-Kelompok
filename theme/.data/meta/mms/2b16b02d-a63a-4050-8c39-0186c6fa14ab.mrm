@@ -1,0 +1,60 @@
+{
+  "localId": "2b16b02d-a63a-4050-8c39-0186c6fa14ab",
+  "onlineId": null,
+  "assemblyId": "2c09897d-8e33-4a46-910e-07b50b2ac2b9",
+  "productId": "2c09897d-8e33-4a46-910e-07b50b2ac2b9",
+  "hash": "7997827494eb2f08d9e074b458590fcc42d1ac50",
+  "platform": 10,
+  "size": 361624,
+  "updatedTime": 1406786563035,
+  "version": "1.0",
+  "authors": {
+    "zh_CN": "Rohit",
+    "fallback": "Rohit",
+    "en_US": "Rohit"
+  },
+  "designers": {
+    "zh_CN": "Rohit",
+    "fallback": "Rohit",
+    "en_US": "Rohit"
+  },
+  "titles": {
+    "zh_CN": "Gray METAL",
+    "fallback": "Gray METAL",
+    "en_US": "Gray METAL"
+  },
+  "descriptions": {
+    "fallback": "",
+    "en_US": "Join Us For More Such Awesome Themes - https://t.me/miuithemez"
+  },
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_mms_0.jpg",
+      "en_US_mms_1.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_mms_0.jpg",
+      "en_US_mms_1.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "ccdbd9f6-e6f8-47c9-8e0d-4ab1dde68be0",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "miuiAdapterVersion": "2.0"
+}

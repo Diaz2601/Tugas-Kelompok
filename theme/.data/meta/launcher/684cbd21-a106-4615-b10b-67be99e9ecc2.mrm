@@ -1,0 +1,59 @@
+{
+  "localId": "684cbd21-a106-4615-b10b-67be99e9ecc2",
+  "onlineId": null,
+  "assemblyId": "10151d7e-64ab-43ef-ab52-fa09211ea4b9",
+  "productId": "10151d7e-64ab-43ef-ab52-fa09211ea4b9",
+  "hash": "cf3e9128281593f6dae420cde37de4005a98c197",
+  "platform": 10,
+  "size": 329338,
+  "updatedTime": 1406786563035,
+  "version": "1.3",
+  "authors": {
+    "zh_CN": "Rafael Henrique",
+    "fallback": "Rafael Henrique",
+    "en_US": "Rafael Henrique"
+  },
+  "designers": {
+    "zh_CN": "Rafael Henrique",
+    "fallback": "Rafael Henrique",
+    "en_US": "Rafael Henrique"
+  },
+  "titles": {
+    "zh_CN": "iOS 14X Pro",
+    "fallback": "iOS 14X Pro",
+    "en_US": "iOS 14X Pro"
+  },
+  "descriptions": {
+    "fallback": "",
+    "en_US": "Make a donation to support my work: http://bit.ly/2KHQ140\nJoin my Telegram channel to stay on top of new themes and updates: http://t.me/MIUIThemesRH\nLink for download the theme wallpapers: http://bit.ly/3hLrmHF\n\nNotes:\n- To change the widget, double click on the widget name.\n- If the dialer, contacts and messaging apps of your device are from Google, it won't change, just the official Xiaomi dialer and messaging app.\n- The best DPI value is 392.\n- If you want to have the iOS style dock, don't apply other wallpapers, otherwise the blur of the dock will disappear.\n- This is just a theme, so don't expect your device to be 100% identical to an iPhone. If you don't like it, I suggest you buy an iPhone and don't complain to me or give a bad grade to the theme. Thank you for understanding!\n\nIf you have any other questions, ask me on Telegram: @Rafael_Henrique"
+  },
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "1e4543cc-f313-4527-8d7c-0fe49e54ca8b",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null
+}

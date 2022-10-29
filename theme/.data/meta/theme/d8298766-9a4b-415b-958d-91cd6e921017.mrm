@@ -1,0 +1,168 @@
+{
+  "localId": "d8298766-9a4b-415b-958d-91cd6e921017",
+  "onlineId": "1ae72500-b827-4f57-96c2-7fecead05f5e",
+  "assemblyId": "329dd9df-d7dc-4059-8d14-61e130c6f9e4",
+  "productId": "329dd9df-d7dc-4059-8d14-61e130c6f9e4",
+  "hash": "b61c82df6526e9bb2cdb6890a5a03f6547773e70",
+  "platform": 9,
+  "size": 44241798,
+  "updatedTime": 1406786563035,
+  "version": "1.0",
+  "authors": {
+    "en_US": "Wuli",
+    "zh_CN": "Wuli",
+    "fallback": "Wuli"
+  },
+  "designers": {
+    "en_US": "Wuli",
+    "zh_CN": "Wuli",
+    "fallback": "Wuli"
+  },
+  "titles": {
+    "en_US": "You When Tired",
+    "zh_CN": "You When Tired",
+    "fallback": "You When Tired"
+  },
+  "descriptions": {
+    "en_US": "Description:Thank you for downloading our theme.\nUnlock Method:Slide to unlock.",
+    "fallback": ""
+  },
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_lockscreen_0.jpg",
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg",
+      "en_US_statusbar_0.jpg",
+      "en_US_statusbar_1.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_lockscreen_0.jpg",
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg",
+      "en_US_statusbar_0.jpg",
+      "en_US_statusbar_1.jpg"
+    ]
+  },
+  "thumbnails": [
+    {
+      "localPath": "053053508018d435b27076cc67ad8e4a1a8a0682e",
+      "onlinePath": "http://t5.market.xiaomi.com/thumbnail/webp/w322q90/ThemeMarket/053053508018d435b27076cc67ad8e4a1a8a0682e"
+    }
+  ],
+  "previews": [
+    {
+      "localPath": "053053508018d435b27076cc67ad8e4a1a8a0682e",
+      "onlinePath": "http://t5.market.xiaomi.com/thumbnail/webp/w1080q70/ThemeMarket/053053508018d435b27076cc67ad8e4a1a8a0682e"
+    },
+    {
+      "localPath": "068394a838a8646ae67fe7ecf0995902bc342f59a",
+      "onlinePath": "http://t5.market.xiaomi.com/thumbnail/webp/w1080q70/ThemeMarket/068394a838a8646ae67fe7ecf0995902bc342f59a"
+    },
+    {
+      "localPath": "0a839a4833a8646a427febecf5e95900ba8ee92f6",
+      "onlinePath": "http://t5.market.xiaomi.com/thumbnail/webp/w1080q70/ThemeMarket/0a839a4833a8646a427febecf5e95900ba8ee92f6"
+    },
+    {
+      "localPath": "0d3053508018d435b27078cc673d8e411a8a6682e",
+      "onlinePath": "http://t5.market.xiaomi.com/thumbnail/webp/w1080q70/ThemeMarket/0d3053508018d435b27078cc673d8e411a8a6682e"
+    },
+    {
+      "localPath": "0a165d57c88224db42311603128f2de8616a8f719",
+      "onlinePath": "http://t5.market.xiaomi.com/thumbnail/webp/w1080q70/ThemeMarket/0a165d57c88224db42311603128f2de8616a8f719"
+    }
+  ],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "fdc943fa-0e68-42bf-86bf-88eaf54309a0",
+      "resourceCode": "wallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "f3f48d45-c803-4b92-bf8c-fcadac1bcada",
+      "resourceCode": "lockstyle",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "5e6342db-3af9-4172-b954-8f2408f27e17",
+      "resourceCode": "framework",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "b4394528-2abf-4f9b-b996-d18ef4b4f125",
+      "resourceCode": "launcher",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "d75fb775-644f-453d-9f4d-faa68008da99",
+      "resourceCode": "statusbar",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "9486f727-85a4-4996-bb8e-cd6bf227161d",
+      "resourceCode": "lockscreen",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "3adb5e97-7f33-48d2-a186-f1309f23828b",
+      "resourceCode": "framework-miui-res",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "fc11869f-0693-4e35-91bb-ba58b08b4327",
+      "resourceCode": "com.android.settings",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "a8c30639-e95b-4203-ba26-a7cd61266f9a",
+      "resourceCode": "clock_2x4",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "39ff7a45-6d50-4f3d-84e0-596e6f579db7",
+      "resourceCode": "plugin_config.xml",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "642fd394-6470-4bd0-8846-fe5438838039",
+      "resourceCode": "icons",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "302aad39-2955-4f4b-9b1c-36c966ce16ff",
+      "resourceCode": "com.miui.securitycenter",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null
+}

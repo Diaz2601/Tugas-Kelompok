@@ -1,0 +1,54 @@
+{
+  "localId": "768965b7-db58-4e92-9dd4-473528ea35c1",
+  "onlineId": null,
+  "assemblyId": "e1f88ed7-0976-4d00-bbaa-9297b134924f",
+  "productId": "e1f88ed7-0976-4d00-bbaa-9297b134924f",
+  "hash": "d770effd9dd84b63b59d486eb8709fe8bcfde2ab",
+  "platform": 10,
+  "size": 4987,
+  "updatedTime": 1406786563035,
+  "version": "1.0",
+  "authors": {
+    "zh_CN": "Wuli",
+    "fallback": "Wuli",
+    "en_US": "Wuli"
+  },
+  "designers": {
+    "zh_CN": "Wuli",
+    "fallback": "Wuli",
+    "en_US": "Wuli"
+  },
+  "titles": {
+    "zh_CN": "Camping Couple",
+    "fallback": "Camping Couple",
+    "en_US": "Camping Couple"
+  },
+  "descriptions": {
+    "zh_CN": "Description:Thank you for downloading our theme.\nUnlock Method:Slide to unlock.",
+    "fallback": "Description:Thank you for downloading our theme.\nUnlock Method:Slide to unlock.",
+    "en_US": "Description:Thank you for downloading our theme.\nUnlock Method:Slide to unlock."
+  },
+  "builtInThumbnails": {
+    "en_US": []
+  },
+  "builtInPreviews": {
+    "en_US": []
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "ef1acad9-019a-4058-afc9-599bc511d739",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null
+}

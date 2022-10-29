@@ -1,0 +1,53 @@
+{
+  "localId": "642fd394-6470-4bd0-8846-fe5438838039",
+  "onlineId": null,
+  "assemblyId": "329dd9df-d7dc-4059-8d14-61e130c6f9e4",
+  "productId": "329dd9df-d7dc-4059-8d14-61e130c6f9e4",
+  "hash": "6ef49e9a06c94e42365c14aa805d2dd181fcdeec",
+  "platform": 9,
+  "size": 29162436,
+  "updatedTime": 1406786563035,
+  "version": "1.0",
+  "authors": {
+    "zh_CN": "Wuli",
+    "fallback": "Wuli",
+    "en_US": "Wuli"
+  },
+  "designers": {
+    "zh_CN": "Wuli",
+    "fallback": "Wuli",
+    "en_US": "Wuli"
+  },
+  "titles": {
+    "zh_CN": "You When Tired",
+    "fallback": "You When Tired",
+    "en_US": "You When Tired"
+  },
+  "descriptions": {
+    "fallback": "",
+    "en_US": "Description:Thank you for downloading our theme.\nUnlock Method:Slide to unlock."
+  },
+  "builtInThumbnails": {
+    "en_US": []
+  },
+  "builtInPreviews": {
+    "en_US": []
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "d8298766-9a4b-415b-958d-91cd6e921017",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null
+}

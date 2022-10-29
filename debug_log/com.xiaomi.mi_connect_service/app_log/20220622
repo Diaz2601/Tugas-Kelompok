@@ -1,0 +1,1940 @@
+06-22 06:35:52.478 15762 15762 I LogUtil : LogUtils init, A new application started
+06-22 06:35:52.512 15762 15762 D PermissionManager : mIsSelfDebugSignature = false
+06-22 06:35:52.520 15762 15762 I PermissionManager : load permission file
+06-22 06:35:52.524 15762 15762 I PermissionManager : failed to check uid for com.miui.mishare.connectivity -1
+06-22 06:35:52.527 15762 15762 I PermissionManager : failed to check uid for com.miui.huanji -1
+06-22 06:35:52.529 15762 15762 I PermissionManager : failed to check uid for com.iot.xiaomi.miconnecttest -1
+06-22 06:35:52.530 15762 15762 I PermissionManager : failed to check uid for com.xiaomi.idm_autotest_android -1
+06-22 06:35:52.535 15762 15762 I PermissionManager : failed to check uid for com.miui.video -1
+06-22 06:35:52.536 15762 15762 I PermissionManager : failed to check uid for com.xiaomi.mitime -1
+06-22 06:35:52.541 15762 15762 I PermissionManager : failed to check uid for com.xiaomi.wearable -1
+06-22 06:35:52.541 15762 15762 I PermissionManager : perm loaded v: 7
+06-22 06:35:52.541 15762 15762 D ConfigMgr : config file: /data/user/0/com.xiaomi.mi_connect_service/files/config/config.json
+06-22 06:35:52.542 15762 15762 D DeviceUtil : platform type property: nosdcard
+06-22 06:35:52.542 15762 15762 D RegionUtil : ID
+06-22 06:35:52.627 15762 15788 I CloudCtrFileJob : work
+06-22 06:35:52.632 15762 15762 D PropertyUtils : is agreed: false
+06-22 06:35:52.641 15762 15762 D DeviceUtil : platform type property: nosdcard
+06-22 06:35:52.641 15762 15762 E Constant : is international: true
+06-22 06:35:52.641 15762 15762 E g:miconnect:  : not available
+06-22 06:35:52.641 15762 15762 E stat: MiotReportManager : -----init------: not available
+06-22 06:35:52.650 15762 15762 I MiConnectService : onCreate versionName:1.3.326 userId:0
+06-22 06:35:52.659 15762 15762 D PropertyUtils : is agreed: false
+06-22 06:35:52.660 15762 15762 E g:miconnect:  : not available
+06-22 06:35:52.660 15762 15762 D DeviceUtil : platform type property: nosdcard
+06-22 06:35:52.661 15762 15762 D BonjourGovernor : BonjourGovernor ver: 9.8.09.01
+06-22 06:35:52.670 15762 15790 D TimerStack : load all start
+06-22 06:35:52.706 15762 15790 D TimerStack : load all 36
+06-22 06:35:52.726 15762 15762 D BonjourGovernor : DTLS Disabled
+06-22 06:35:52.968 15762 15762 D BonjourGovernor : Start coapserver success, retry:0
+06-22 06:35:52.974 15762 15762 D MiConnectService : SYSTEM userId else: 0,APP USERID1000
+06-22 06:35:52.975 15762 15762 D BtGovernor : BleApi getBleGovernor
+06-22 06:35:52.975 15762 15762 D BtGovernor : BleApi BtGovernor Constructor, dev.1.2.0
+06-22 06:35:52.976 15762 15762 D DeviceUtil : platform type property: nosdcard
+06-22 06:35:52.976 15762 15762 D DeviceUtil : platform type property: nosdcard
+06-22 06:35:53.021 15762 15762 I BleClientService :  BleAttributeClientOperation Consturctor, dev.1.2.0
+06-22 06:35:53.021 15762 15762 I Discovery :  BleDiscovery Consturctor, dev.1.2.0
+06-22 06:35:53.022 15762 15762 D Discovery : scan mode=2
+06-22 06:35:53.023 15762 15762 I BleServerService :  BleAttributeServerOperation Consturctor, dev.1.2.0
+06-22 06:35:53.023 15762 15762 I BleAdvertising :  BleAdvertising Consturctor, dev.1.2.0
+06-22 06:35:53.028 15762 15762 I BleClientViaAttService :  BleClientService Consturctor, dev.1.2.0
+06-22 06:35:53.029 15762 15762 I BleServerViaAttService :  BleServerService Consturctor, dev.1.2.0
+06-22 06:35:53.029 15762 15762 E BtGovernor : Log enabled =false
+06-22 06:35:53.029 15762 15762 D BtGovernor : BleApi setCallback
+06-22 06:35:53.029 15762 15762 D BleBackGround : setCallback is set
+06-22 06:35:53.029 15762 15762 D BtGovernor : BleApi enableStateListener
+06-22 06:35:53.029 15762 15762 I BtGovernor : isAvailable enter
+06-22 06:35:53.032 15762 15762 D BtGovernor : BleApi init enter,dev.1.2.0
+06-22 06:35:53.036 15762 15762 D BleClientService : init enter, mIsInitiated=false
+06-22 06:35:53.037 15762 15762 D Discovery : init enter, mIsInitiated=false
+06-22 06:35:53.039 15762 15762 D BleServerService : init enter, mIsInitiated=false
+06-22 06:35:53.039 15762 15762 D BleServerService : Info: gattOperationValid is false
+06-22 06:35:53.039 15762 15762 D BleAdvertising : init enter, mIsInitiated=false
+06-22 06:35:53.040 15762 15762 D BtGovernor : BleApi setupRfcomm enter
+06-22 06:35:53.041 15762 15762 D BluetoothRfcommService : start
+06-22 06:35:53.074 15762 15762 D BleClientViaAttService : init enter, mIsInitiated=false
+06-22 06:35:53.074 15762 15762 D BleServerViaAttService : init enter, mIsInitiated=false
+06-22 06:35:53.074 15762 15762 D BleServerViaAttService : Info: gattOperationValid is false
+06-22 06:35:53.074 15762 15762 D BleBackGround : startBindBackGoundService
+06-22 06:35:53.075 15762 15762 D DeviceUtil : platform type property: nosdcard
+06-22 06:35:53.075 15762 15762 D BleBackGround : startBindbackGoundService
+06-22 06:35:53.078 15762 15811 D BluetoothRfcommService : Socket Type: Insecure BEGIN mAcceptThread Thread[Thread-2,5,main]
+06-22 06:35:53.078 15762 15811 D BluetoothRfcommService : mState : 1
+06-22 06:35:53.080 15762 15762 D WifiGovernor : Wifi Governor Constructor
+06-22 06:35:53.106 15762 15762 D WifiGovernor : DTLS Disabled
+06-22 06:35:53.107 15762 15762 E WifiGovernor : isAvailable() : true
+06-22 06:35:53.107 15762 15762 D WifiGovernor : Init enter
+06-22 06:35:53.109 15762 15762 D WifiGovernor : Start coap server success, retry:0
+06-22 06:35:53.110 15762 15762 D DeviceUtil : platform type property: nosdcard
+06-22 06:35:53.117 15762 15762 I NfcAdvPresenter : registerReceiver
+06-22 06:35:53.117 15762 15762 D DeviceUtil : platform type property: nosdcard
+06-22 06:35:53.117 15762 15762 D DeviceUtil : platform type property: nosdcard
+06-22 06:35:53.118 15762 15762 I NfcScanHelper : ---start---state:IDEL
+06-22 06:35:53.120 15762 15762 I NfcMessagePublisher : use NfcScanHelper
+06-22 06:35:53.120 15762 15762 D DeviceUtil : platform type property: nosdcard
+06-22 06:35:53.126 15762 15762 D DeviceUtil : platform type property: nosdcard
+06-22 06:35:53.127 15762 15762 I NfcGovernor : isAvailable false
+06-22 06:35:53.127 15762 15762 D MiConnectService : NFC available false
+06-22 06:35:53.127 15762 15762 D DeviceUtil : platform type property: nosdcard
+06-22 06:35:53.127 15762 15762 I NfcGovernor : isAvailable false
+06-22 06:35:53.128 15762 15762 D BtGovernor : BleApi setAdvertisingCallback enter
+06-22 06:35:53.128 15762 15762 D BtGovernor : BleApi setDiscoveryCallback enter
+06-22 06:35:53.128 15762 15762 D Discovery : setCallback enter
+06-22 06:35:53.128 15762 15762 D BleBackGround : setBackGroundDiscoveryCallback enter
+06-22 06:35:53.140 15762 15788 I CloudCtrFileJob : done
+06-22 06:35:53.140 15762 15788 D CloudCtrBaseJob : work
+06-22 06:35:53.142 15762 15762 D BtGovernor : BleApi setAttributeCallback enter
+06-22 06:35:53.259 15762 15762 D MiIdentity : load local
+06-22 06:35:53.260 15762 15762 D MiConnectService : ScreenStateObserver.EnableObserve main
+06-22 06:35:53.261 15762 15762 D MiConnectService : UserSwitchedObserver.EnableObserve main
+06-22 06:35:53.282 15762 15762 D MiConnectService : Register name change observer for phone
+06-22 06:35:53.282 15762 15762 D MiConnectService : PhoneSystemNameChangeObserver.EnableObserve main
+06-22 06:35:53.338 15762 15788 D CloudCtrBaseJob : done
+06-22 06:35:53.434 15762 15762 D IDMNative : init
+06-22 06:35:53.440 15762 15762 D IDMNative : registerIotService, uuid:ffff3ffc-09da-4bed-9652-f507366fcfc5
+06-22 06:35:53.448 15762 15762 D DeviceUtil : platform type property: nosdcard
+06-22 06:35:53.452 15762 15762 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 06:35:53.484 15762 15762 E BleBackGround : MiConnect bind MiNearby background success
+06-22 06:35:53.495 15762 15762 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 06:35:53.503 15762 15762 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 06:35:53.504 15762 15762 D CommStateMonitor : onReceive: android.net.wifi.WIFI_STATE_CHANGED
+06-22 06:35:53.504 15762 15762 D CommStateMonitor : onReceive: android.net.wifi.STATE_CHANGE
+06-22 06:35:53.504 15762 15762 D CommStateMonitor : isConnected: false
+06-22 07:07:57.683 15762 15762 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 07:08:03.443 15762 15762 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 07:18:41.776 25698 25698 I LogUtil : LogUtils init, A new application started
+06-22 07:18:41.804 25698 25698 D PermissionManager : mIsSelfDebugSignature = false
+06-22 07:18:41.814 25698 25698 I PermissionManager : load permission file
+06-22 07:18:41.821 25698 25698 I PermissionManager : failed to check uid for com.miui.mishare.connectivity -1
+06-22 07:18:41.822 25698 25698 I PermissionManager : failed to check uid for com.miui.huanji -1
+06-22 07:18:41.825 25698 25698 I PermissionManager : failed to check uid for com.iot.xiaomi.miconnecttest -1
+06-22 07:18:41.826 25698 25698 I PermissionManager : failed to check uid for com.xiaomi.idm_autotest_android -1
+06-22 07:18:41.828 25698 25698 I PermissionManager : failed to check uid for com.miui.video -1
+06-22 07:18:41.829 25698 25698 I PermissionManager : failed to check uid for com.xiaomi.mitime -1
+06-22 07:18:41.830 25698 25698 I PermissionManager : failed to check uid for com.xiaomi.wearable -1
+06-22 07:18:41.831 25698 25698 I PermissionManager : perm loaded v: 7
+06-22 07:18:41.831 25698 25698 D ConfigMgr : config file: /data/user/0/com.xiaomi.mi_connect_service/files/config/config.json
+06-22 07:18:41.833 25698 25698 D DeviceUtil : platform type property: nosdcard
+06-22 07:18:41.833 25698 25698 D RegionUtil : ID
+06-22 07:18:41.887 25698 25730 I CloudCtrFileJob : work
+06-22 07:18:41.895 25698 25698 D PropertyUtils : is agreed: false
+06-22 07:18:41.904 25698 25698 D DeviceUtil : platform type property: nosdcard
+06-22 07:18:41.904 25698 25698 E Constant : is international: true
+06-22 07:18:41.904 25698 25698 E g:miconnect:  : not available
+06-22 07:18:41.904 25698 25698 E stat: MiotReportManager : -----init------: not available
+06-22 07:18:41.912 25698 25698 I MiConnectService : onCreate versionName:1.3.326 userId:0
+06-22 07:18:41.920 25698 25698 D PropertyUtils : is agreed: false
+06-22 07:18:41.921 25698 25698 E g:miconnect:  : not available
+06-22 07:18:41.921 25698 25698 D DeviceUtil : platform type property: nosdcard
+06-22 07:18:41.922 25698 25698 D BonjourGovernor : BonjourGovernor ver: 9.8.09.01
+06-22 07:18:41.923 25698 25733 D TimerStack : load all start
+06-22 07:18:41.941 25698 25698 D BonjourGovernor : DTLS Disabled
+06-22 07:18:41.964 25698 25733 D TimerStack : load all 41
+06-22 07:18:42.194 25698 25698 D BonjourGovernor : Start coapserver success, retry:0
+06-22 07:18:42.203 25698 25698 D MiConnectService : SYSTEM userId else: 0,APP USERID1000
+06-22 07:18:42.203 25698 25698 D BtGovernor : BleApi getBleGovernor
+06-22 07:18:42.203 25698 25698 D BtGovernor : BleApi BtGovernor Constructor, dev.1.2.0
+06-22 07:18:42.203 25698 25698 D DeviceUtil : platform type property: nosdcard
+06-22 07:18:42.208 25698 25698 D DeviceUtil : platform type property: nosdcard
+06-22 07:18:42.226 25698 25698 I BleClientService :  BleAttributeClientOperation Consturctor, dev.1.2.0
+06-22 07:18:42.226 25698 25698 I Discovery :  BleDiscovery Consturctor, dev.1.2.0
+06-22 07:18:42.227 25698 25698 D Discovery : scan mode=2
+06-22 07:18:42.229 25698 25698 I BleServerService :  BleAttributeServerOperation Consturctor, dev.1.2.0
+06-22 07:18:42.229 25698 25698 I BleAdvertising :  BleAdvertising Consturctor, dev.1.2.0
+06-22 07:18:42.234 25698 25698 I BleClientViaAttService :  BleClientService Consturctor, dev.1.2.0
+06-22 07:18:42.234 25698 25698 I BleServerViaAttService :  BleServerService Consturctor, dev.1.2.0
+06-22 07:18:42.234 25698 25698 E BtGovernor : Log enabled =false
+06-22 07:18:42.234 25698 25698 D BtGovernor : BleApi setCallback
+06-22 07:18:42.234 25698 25698 D BleBackGround : setCallback is set
+06-22 07:18:42.234 25698 25698 D BtGovernor : BleApi enableStateListener
+06-22 07:18:42.235 25698 25698 I BtGovernor : isAvailable enter
+06-22 07:18:42.236 25698 25698 D BtGovernor : BleApi init enter,dev.1.2.0
+06-22 07:18:42.239 25698 25698 D BleClientService : init enter, mIsInitiated=false
+06-22 07:18:42.239 25698 25698 D Discovery : init enter, mIsInitiated=false
+06-22 07:18:42.241 25698 25698 D BleServerService : init enter, mIsInitiated=false
+06-22 07:18:42.241 25698 25698 D BleServerService : Info: gattOperationValid is false
+06-22 07:18:42.241 25698 25698 D BleAdvertising : init enter, mIsInitiated=false
+06-22 07:18:42.242 25698 25698 D BtGovernor : BleApi setupRfcomm enter
+06-22 07:18:42.244 25698 25698 D BluetoothRfcommService : start
+06-22 07:18:42.260 25698 25698 D BleClientViaAttService : init enter, mIsInitiated=false
+06-22 07:18:42.261 25698 25698 D BleServerViaAttService : init enter, mIsInitiated=false
+06-22 07:18:42.261 25698 25698 D BleServerViaAttService : Info: gattOperationValid is false
+06-22 07:18:42.261 25698 25698 D BleBackGround : startBindBackGoundService
+06-22 07:18:42.261 25698 25698 D DeviceUtil : platform type property: nosdcard
+06-22 07:18:42.261 25698 25698 D BleBackGround : startBindbackGoundService
+06-22 07:18:42.262 25698 25757 D BluetoothRfcommService : Socket Type: Insecure BEGIN mAcceptThread Thread[Thread-2,5,main]
+06-22 07:18:42.262 25698 25757 D BluetoothRfcommService : mState : 1
+06-22 07:18:42.270 25698 25698 D WifiGovernor : Wifi Governor Constructor
+06-22 07:18:42.271 25698 25730 I CloudCtrFileJob : done
+06-22 07:18:42.271 25698 25730 D CloudCtrBaseJob : work
+06-22 07:18:42.294 25698 25698 D WifiGovernor : DTLS Disabled
+06-22 07:18:42.294 25698 25698 E WifiGovernor : isAvailable() : true
+06-22 07:18:42.295 25698 25698 D WifiGovernor : Init enter
+06-22 07:18:42.299 25698 25698 D WifiGovernor : Start coap server success, retry:0
+06-22 07:18:42.299 25698 25698 D DeviceUtil : platform type property: nosdcard
+06-22 07:18:42.303 25698 25698 I NfcAdvPresenter : registerReceiver
+06-22 07:18:42.303 25698 25698 D DeviceUtil : platform type property: nosdcard
+06-22 07:18:42.303 25698 25698 D DeviceUtil : platform type property: nosdcard
+06-22 07:18:42.303 25698 25698 I NfcScanHelper : ---start---state:IDEL
+06-22 07:18:42.306 25698 25698 I NfcMessagePublisher : use NfcScanHelper
+06-22 07:18:42.307 25698 25698 D DeviceUtil : platform type property: nosdcard
+06-22 07:18:42.308 25698 25698 D DeviceUtil : platform type property: nosdcard
+06-22 07:18:42.309 25698 25698 I NfcGovernor : isAvailable false
+06-22 07:18:42.309 25698 25698 D MiConnectService : NFC available false
+06-22 07:18:42.309 25698 25698 D DeviceUtil : platform type property: nosdcard
+06-22 07:18:42.309 25698 25698 I NfcGovernor : isAvailable false
+06-22 07:18:42.309 25698 25698 D BtGovernor : BleApi setAdvertisingCallback enter
+06-22 07:18:42.310 25698 25698 D BtGovernor : BleApi setDiscoveryCallback enter
+06-22 07:18:42.310 25698 25698 D Discovery : setCallback enter
+06-22 07:18:42.310 25698 25698 D BleBackGround : setBackGroundDiscoveryCallback enter
+06-22 07:18:42.323 25698 25698 D BtGovernor : BleApi setAttributeCallback enter
+06-22 07:18:42.474 25698 25698 D MiIdentity : load local
+06-22 07:18:42.474 25698 25698 D MiConnectService : ScreenStateObserver.EnableObserve main
+06-22 07:18:42.475 25698 25698 D MiConnectService : UserSwitchedObserver.EnableObserve main
+06-22 07:18:42.486 25698 25698 D MiConnectService : Register name change observer for phone
+06-22 07:18:42.486 25698 25698 D MiConnectService : PhoneSystemNameChangeObserver.EnableObserve main
+06-22 07:18:42.498 25698 25730 D CloudCtrBaseJob : done
+06-22 07:18:42.620 25698 25698 D IDMNative : init
+06-22 07:18:42.635 25698 25698 D IDMNative : registerIotService, uuid:ffff3ffc-09da-4bed-9652-f507366fcfc5
+06-22 07:18:42.670 25698 25698 D DeviceUtil : platform type property: nosdcard
+06-22 07:18:42.695 25698 25698 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 07:18:42.695 25698 25698 D CommStateMonitor : onReceive: android.net.wifi.WIFI_STATE_CHANGED
+06-22 07:18:42.696 25698 25698 D CommStateMonitor : onReceive: android.net.wifi.STATE_CHANGE
+06-22 07:18:42.706 25698 25698 D CommStateMonitor : isConnected: false
+06-22 07:18:43.025 25698 25698 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 07:18:43.070 25698 25698 E BleBackGround : MiConnect bind MiNearby background success
+06-22 07:18:43.079 25698 25698 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 07:56:19.421 7827 7827 I LogUtil : LogUtils init, A new application started
+06-22 07:56:19.456 7827 7827 D PermissionManager : mIsSelfDebugSignature = false
+06-22 07:56:19.465 7827 7827 I PermissionManager : load permission file
+06-22 07:56:19.468 7827 7827 I PermissionManager : failed to check uid for com.miui.mishare.connectivity -1
+06-22 07:56:19.470 7827 7827 I PermissionManager : failed to check uid for com.miui.huanji -1
+06-22 07:56:19.472 7827 7827 I PermissionManager : failed to check uid for com.iot.xiaomi.miconnecttest -1
+06-22 07:56:19.474 7827 7827 I PermissionManager : failed to check uid for com.xiaomi.idm_autotest_android -1
+06-22 07:56:19.475 7827 7827 I PermissionManager : failed to check uid for com.miui.video -1
+06-22 07:56:19.476 7827 7827 I PermissionManager : failed to check uid for com.xiaomi.mitime -1
+06-22 07:56:19.482 7827 7827 I PermissionManager : failed to check uid for com.xiaomi.wearable -1
+06-22 07:56:19.483 7827 7827 I PermissionManager : perm loaded v: 7
+06-22 07:56:19.483 7827 7827 D ConfigMgr : config file: /data/user/0/com.xiaomi.mi_connect_service/files/config/config.json
+06-22 07:56:19.484 7827 7827 D DeviceUtil : platform type property: nosdcard
+06-22 07:56:19.484 7827 7827 D RegionUtil : ID
+06-22 07:56:19.533 7827 7876 I CloudCtrFileJob : work
+06-22 07:56:19.535 7827 7827 D PropertyUtils : is agreed: false
+06-22 07:56:19.545 7827 7827 D DeviceUtil : platform type property: nosdcard
+06-22 07:56:19.545 7827 7827 E Constant : is international: true
+06-22 07:56:19.546 7827 7827 E g:miconnect:  : not available
+06-22 07:56:19.546 7827 7827 E stat: MiotReportManager : -----init------: not available
+06-22 07:56:19.553 7827 7827 I MiConnectService : onCreate versionName:1.3.326 userId:0
+06-22 07:56:19.563 7827 7827 D PropertyUtils : is agreed: false
+06-22 07:56:19.566 7827 7827 E g:miconnect:  : not available
+06-22 07:56:19.567 7827 7827 D DeviceUtil : platform type property: nosdcard
+06-22 07:56:19.572 7827 7827 D BonjourGovernor : BonjourGovernor ver: 9.8.09.01
+06-22 07:56:19.577 7827 7878 D TimerStack : load all start
+06-22 07:56:19.606 7827 7827 D BonjourGovernor : DTLS Disabled
+06-22 07:56:19.647 7827 7878 D TimerStack : load all 70
+06-22 07:56:19.841 7827 7827 D BonjourGovernor : Start coapserver success, retry:0
+06-22 07:56:19.851 7827 7827 D MiConnectService : SYSTEM userId else: 0,APP USERID1000
+06-22 07:56:19.851 7827 7827 D BtGovernor : BleApi getBleGovernor
+06-22 07:56:19.851 7827 7827 D BtGovernor : BleApi BtGovernor Constructor, dev.1.2.0
+06-22 07:56:19.851 7827 7827 D DeviceUtil : platform type property: nosdcard
+06-22 07:56:19.852 7827 7827 D DeviceUtil : platform type property: nosdcard
+06-22 07:56:19.871 7827 7827 I BleClientService :  BleAttributeClientOperation Consturctor, dev.1.2.0
+06-22 07:56:19.872 7827 7827 I Discovery :  BleDiscovery Consturctor, dev.1.2.0
+06-22 07:56:19.872 7827 7827 D Discovery : scan mode=2
+06-22 07:56:19.876 7827 7827 I BleServerService :  BleAttributeServerOperation Consturctor, dev.1.2.0
+06-22 07:56:19.876 7827 7827 I BleAdvertising :  BleAdvertising Consturctor, dev.1.2.0
+06-22 07:56:19.885 7827 7827 I BleClientViaAttService :  BleClientService Consturctor, dev.1.2.0
+06-22 07:56:19.887 7827 7827 I BleServerViaAttService :  BleServerService Consturctor, dev.1.2.0
+06-22 07:56:19.887 7827 7827 E BtGovernor : Log enabled =false
+06-22 07:56:19.887 7827 7827 D BtGovernor : BleApi setCallback
+06-22 07:56:19.887 7827 7827 D BleBackGround : setCallback is set
+06-22 07:56:19.887 7827 7827 D BtGovernor : BleApi enableStateListener
+06-22 07:56:19.887 7827 7827 I BtGovernor : isAvailable enter
+06-22 07:56:19.889 7827 7827 D BtGovernor : BleApi init enter,dev.1.2.0
+06-22 07:56:19.896 7827 7827 D BleClientService : init enter, mIsInitiated=false
+06-22 07:56:19.896 7827 7827 D Discovery : init enter, mIsInitiated=false
+06-22 07:56:19.902 7827 7827 D BleServerService : init enter, mIsInitiated=false
+06-22 07:56:19.902 7827 7827 D BleServerService : Info: gattOperationValid is false
+06-22 07:56:19.902 7827 7827 D BleAdvertising : init enter, mIsInitiated=false
+06-22 07:56:19.903 7827 7827 D BtGovernor : BleApi setupRfcomm enter
+06-22 07:56:19.913 7827 7827 D BluetoothRfcommService : start
+06-22 07:56:19.919 7827 7876 I CloudCtrFileJob : done
+06-22 07:56:19.919 7827 7876 D CloudCtrBaseJob : work
+06-22 07:56:19.953 7827 7827 D BleClientViaAttService : init enter, mIsInitiated=false
+06-22 07:56:19.953 7827 7827 D BleServerViaAttService : init enter, mIsInitiated=false
+06-22 07:56:19.953 7827 7827 D BleServerViaAttService : Info: gattOperationValid is false
+06-22 07:56:19.953 7827 7827 D BleBackGround : startBindBackGoundService
+06-22 07:56:19.953 7827 7827 D DeviceUtil : platform type property: nosdcard
+06-22 07:56:19.954 7827 7827 D BleBackGround : startBindbackGoundService
+06-22 07:56:19.956 7827 7902 D BluetoothRfcommService : Socket Type: Insecure BEGIN mAcceptThread Thread[Thread-2,5,main]
+06-22 07:56:19.957 7827 7902 D BluetoothRfcommService : mState : 1
+06-22 07:56:19.968 7827 7827 D WifiGovernor : Wifi Governor Constructor
+06-22 07:56:20.003 7827 7827 D WifiGovernor : DTLS Disabled
+06-22 07:56:20.004 7827 7827 E WifiGovernor : isAvailable() : true
+06-22 07:56:20.004 7827 7827 D WifiGovernor : Init enter
+06-22 07:56:20.009 7827 7827 D WifiGovernor : Start coap server success, retry:0
+06-22 07:56:20.012 7827 7827 D DeviceUtil : platform type property: nosdcard
+06-22 07:56:20.020 7827 7827 I NfcAdvPresenter : registerReceiver
+06-22 07:56:20.020 7827 7827 D DeviceUtil : platform type property: nosdcard
+06-22 07:56:20.021 7827 7827 D DeviceUtil : platform type property: nosdcard
+06-22 07:56:20.021 7827 7827 I NfcScanHelper : ---start---state:IDEL
+06-22 07:56:20.026 7827 7827 I NfcMessagePublisher : use NfcScanHelper
+06-22 07:56:20.027 7827 7827 D DeviceUtil : platform type property: nosdcard
+06-22 07:56:20.035 7827 7827 D DeviceUtil : platform type property: nosdcard
+06-22 07:56:20.036 7827 7827 I NfcGovernor : isAvailable false
+06-22 07:56:20.036 7827 7827 D MiConnectService : NFC available false
+06-22 07:56:20.037 7827 7827 D DeviceUtil : platform type property: nosdcard
+06-22 07:56:20.037 7827 7827 I NfcGovernor : isAvailable false
+06-22 07:56:20.038 7827 7827 D BtGovernor : BleApi setAdvertisingCallback enter
+06-22 07:56:20.038 7827 7827 D BtGovernor : BleApi setDiscoveryCallback enter
+06-22 07:56:20.038 7827 7827 D Discovery : setCallback enter
+06-22 07:56:20.038 7827 7827 D BleBackGround : setBackGroundDiscoveryCallback enter
+06-22 07:56:20.069 7827 7827 D BtGovernor : BleApi setAttributeCallback enter
+06-22 07:56:20.158 7827 7876 D CloudCtrBaseJob : done
+06-22 07:56:20.208 7827 7827 D MiIdentity : load local
+06-22 07:56:20.208 7827 7827 D MiConnectService : ScreenStateObserver.EnableObserve main
+06-22 07:56:20.212 7827 7827 D MiConnectService : UserSwitchedObserver.EnableObserve main
+06-22 07:56:20.233 7827 7827 D MiConnectService : Register name change observer for phone
+06-22 07:56:20.233 7827 7827 D MiConnectService : PhoneSystemNameChangeObserver.EnableObserve main
+06-22 07:56:20.364 7827 7827 D IDMNative : init
+06-22 07:56:20.381 7827 7827 D IDMNative : registerIotService, uuid:ffff3ffc-09da-4bed-9652-f507366fcfc5
+06-22 07:56:20.393 7827 7827 D DeviceUtil : platform type property: nosdcard
+06-22 07:56:20.397 7827 7827 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 07:56:20.397 7827 7827 D CommStateMonitor : onReceive: android.net.wifi.WIFI_STATE_CHANGED
+06-22 07:56:20.397 7827 7827 D CommStateMonitor : onReceive: android.net.wifi.STATE_CHANGE
+06-22 07:56:20.398 7827 7827 D CommStateMonitor : isConnected: false
+06-22 07:56:20.709 7827 7827 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 07:56:20.741 7827 7827 E BleBackGround : MiConnect bind MiNearby background success
+06-22 07:56:20.752 7827 7827 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 08:30:28.957 15890 15890 I LogUtil : LogUtils init, A new application started
+06-22 08:30:28.978 15890 15890 D PermissionManager : mIsSelfDebugSignature = false
+06-22 08:30:28.990 15890 15890 I PermissionManager : load permission file
+06-22 08:30:28.993 15890 15890 I PermissionManager : failed to check uid for com.miui.mishare.connectivity -1
+06-22 08:30:28.995 15890 15890 I PermissionManager : failed to check uid for com.miui.huanji -1
+06-22 08:30:28.997 15890 15890 I PermissionManager : failed to check uid for com.iot.xiaomi.miconnecttest -1
+06-22 08:30:28.998 15890 15890 I PermissionManager : failed to check uid for com.xiaomi.idm_autotest_android -1
+06-22 08:30:28.999 15890 15890 I PermissionManager : failed to check uid for com.miui.video -1
+06-22 08:30:29.000 15890 15890 I PermissionManager : failed to check uid for com.xiaomi.mitime -1
+06-22 08:30:29.002 15890 15890 I PermissionManager : failed to check uid for com.xiaomi.wearable -1
+06-22 08:30:29.002 15890 15890 I PermissionManager : perm loaded v: 7
+06-22 08:30:29.002 15890 15890 D ConfigMgr : config file: /data/user/0/com.xiaomi.mi_connect_service/files/config/config.json
+06-22 08:30:29.004 15890 15890 D DeviceUtil : platform type property: nosdcard
+06-22 08:30:29.004 15890 15890 D RegionUtil : ID
+06-22 08:30:29.055 15890 15919 I CloudCtrFileJob : work
+06-22 08:30:29.060 15890 15890 D PropertyUtils : is agreed: false
+06-22 08:30:29.067 15890 15890 D DeviceUtil : platform type property: nosdcard
+06-22 08:30:29.067 15890 15890 E Constant : is international: true
+06-22 08:30:29.067 15890 15890 E g:miconnect:  : not available
+06-22 08:30:29.067 15890 15890 E stat: MiotReportManager : -----init------: not available
+06-22 08:30:29.072 15890 15890 I MiConnectService : onCreate versionName:1.3.326 userId:0
+06-22 08:30:29.133 15890 15890 D PropertyUtils : is agreed: false
+06-22 08:30:29.134 15890 15890 E g:miconnect:  : not available
+06-22 08:30:29.134 15890 15890 D DeviceUtil : platform type property: nosdcard
+06-22 08:30:29.137 15890 15890 D BonjourGovernor : BonjourGovernor ver: 9.8.09.01
+06-22 08:30:29.144 15890 15921 D TimerStack : load all start
+06-22 08:30:29.162 15890 15890 D BonjourGovernor : DTLS Disabled
+06-22 08:30:29.195 15890 15921 D TimerStack : load all 51
+06-22 08:30:29.409 15890 15890 D BonjourGovernor : Start coapserver success, retry:0
+06-22 08:30:29.423 15890 15890 D MiConnectService : SYSTEM userId else: 0,APP USERID1000
+06-22 08:30:29.424 15890 15890 D BtGovernor : BleApi getBleGovernor
+06-22 08:30:29.424 15890 15890 D BtGovernor : BleApi BtGovernor Constructor, dev.1.2.0
+06-22 08:30:29.424 15890 15890 D DeviceUtil : platform type property: nosdcard
+06-22 08:30:29.430 15890 15890 D DeviceUtil : platform type property: nosdcard
+06-22 08:30:29.450 15890 15890 I BleClientService :  BleAttributeClientOperation Consturctor, dev.1.2.0
+06-22 08:30:29.452 15890 15890 I Discovery :  BleDiscovery Consturctor, dev.1.2.0
+06-22 08:30:29.453 15890 15890 D Discovery : scan mode=2
+06-22 08:30:29.454 15890 15890 I BleServerService :  BleAttributeServerOperation Consturctor, dev.1.2.0
+06-22 08:30:29.454 15890 15890 I BleAdvertising :  BleAdvertising Consturctor, dev.1.2.0
+06-22 08:30:29.460 15890 15890 I BleClientViaAttService :  BleClientService Consturctor, dev.1.2.0
+06-22 08:30:29.461 15890 15890 I BleServerViaAttService :  BleServerService Consturctor, dev.1.2.0
+06-22 08:30:29.461 15890 15890 E BtGovernor : Log enabled =false
+06-22 08:30:29.461 15890 15890 D BtGovernor : BleApi setCallback
+06-22 08:30:29.461 15890 15890 D BleBackGround : setCallback is set
+06-22 08:30:29.461 15890 15890 D BtGovernor : BleApi enableStateListener
+06-22 08:30:29.461 15890 15890 I BtGovernor : isAvailable enter
+06-22 08:30:29.463 15890 15890 D BtGovernor : BleApi init enter,dev.1.2.0
+06-22 08:30:29.466 15890 15890 D BleClientService : init enter, mIsInitiated=false
+06-22 08:30:29.467 15890 15890 D Discovery : init enter, mIsInitiated=false
+06-22 08:30:29.468 15890 15890 D BleServerService : init enter, mIsInitiated=false
+06-22 08:30:29.469 15890 15890 D BleServerService : Info: gattOperationValid is false
+06-22 08:30:29.469 15890 15890 D BleAdvertising : init enter, mIsInitiated=false
+06-22 08:30:29.470 15890 15890 D BtGovernor : BleApi setupRfcomm enter
+06-22 08:30:29.472 15890 15890 D BluetoothRfcommService : start
+06-22 08:30:29.509 15890 15890 D BleClientViaAttService : init enter, mIsInitiated=false
+06-22 08:30:29.509 15890 15890 D BleServerViaAttService : init enter, mIsInitiated=false
+06-22 08:30:29.509 15890 15890 D BleServerViaAttService : Info: gattOperationValid is false
+06-22 08:30:29.509 15890 15890 D BleBackGround : startBindBackGoundService
+06-22 08:30:29.509 15890 15890 D DeviceUtil : platform type property: nosdcard
+06-22 08:30:29.510 15890 15890 D BleBackGround : startBindbackGoundService
+06-22 08:30:29.514 15890 15942 D BluetoothRfcommService : Socket Type: Insecure BEGIN mAcceptThread Thread[Thread-2,5,main]
+06-22 08:30:29.515 15890 15942 D BluetoothRfcommService : mState : 1
+06-22 08:30:29.520 15890 15890 D WifiGovernor : Wifi Governor Constructor
+06-22 08:30:29.535 15890 15919 I CloudCtrFileJob : done
+06-22 08:30:29.536 15890 15919 D CloudCtrBaseJob : work
+06-22 08:30:29.542 15890 15890 D WifiGovernor : DTLS Disabled
+06-22 08:30:29.543 15890 15890 E WifiGovernor : isAvailable() : true
+06-22 08:30:29.543 15890 15890 D WifiGovernor : Init enter
+06-22 08:30:29.549 15890 15890 D WifiGovernor : Start coap server success, retry:0
+06-22 08:30:29.549 15890 15890 D DeviceUtil : platform type property: nosdcard
+06-22 08:30:29.553 15890 15890 I NfcAdvPresenter : registerReceiver
+06-22 08:30:29.554 15890 15890 D DeviceUtil : platform type property: nosdcard
+06-22 08:30:29.554 15890 15890 D DeviceUtil : platform type property: nosdcard
+06-22 08:30:29.554 15890 15890 I NfcScanHelper : ---start---state:IDEL
+06-22 08:30:29.556 15890 15890 I NfcMessagePublisher : use NfcScanHelper
+06-22 08:30:29.557 15890 15890 D DeviceUtil : platform type property: nosdcard
+06-22 08:30:29.559 15890 15890 D DeviceUtil : platform type property: nosdcard
+06-22 08:30:29.560 15890 15890 I NfcGovernor : isAvailable false
+06-22 08:30:29.560 15890 15890 D MiConnectService : NFC available false
+06-22 08:30:29.560 15890 15890 D DeviceUtil : platform type property: nosdcard
+06-22 08:30:29.560 15890 15890 I NfcGovernor : isAvailable false
+06-22 08:30:29.561 15890 15890 D BtGovernor : BleApi setAdvertisingCallback enter
+06-22 08:30:29.561 15890 15890 D BtGovernor : BleApi setDiscoveryCallback enter
+06-22 08:30:29.561 15890 15890 D Discovery : setCallback enter
+06-22 08:30:29.561 15890 15890 D BleBackGround : setBackGroundDiscoveryCallback enter
+06-22 08:30:29.588 15890 15890 D BtGovernor : BleApi setAttributeCallback enter
+06-22 08:30:29.704 15890 15890 D MiIdentity : load local
+06-22 08:30:29.704 15890 15890 D MiConnectService : ScreenStateObserver.EnableObserve main
+06-22 08:30:29.709 15890 15890 D MiConnectService : UserSwitchedObserver.EnableObserve main
+06-22 08:30:29.725 15890 15890 D MiConnectService : Register name change observer for phone
+06-22 08:30:29.727 15890 15890 D MiConnectService : PhoneSystemNameChangeObserver.EnableObserve main
+06-22 08:30:29.775 15890 15919 D CloudCtrBaseJob : done
+06-22 08:30:29.854 15890 15890 D IDMNative : init
+06-22 08:30:29.863 15890 15890 D IDMNative : registerIotService, uuid:ffff3ffc-09da-4bed-9652-f507366fcfc5
+06-22 08:30:29.877 15890 15890 D DeviceUtil : platform type property: nosdcard
+06-22 08:30:29.883 15890 15890 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 08:30:29.898 15890 15890 E BleBackGround : MiConnect bind MiNearby background success
+06-22 08:30:29.933 15890 15890 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 08:30:29.938 15890 15890 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 08:30:29.938 15890 15890 D CommStateMonitor : onReceive: android.net.wifi.WIFI_STATE_CHANGED
+06-22 08:30:29.938 15890 15890 D CommStateMonitor : onReceive: android.net.wifi.STATE_CHANGE
+06-22 08:30:29.944 15890 15890 D CommStateMonitor : isConnected: false
+06-22 09:02:42.962 30372 30372 I LogUtil : LogUtils init, A new application started
+06-22 09:02:43.007 30372 30372 D PermissionManager : mIsSelfDebugSignature = false
+06-22 09:02:43.015 30372 30372 I PermissionManager : load permission file
+06-22 09:02:43.018 30372 30372 I PermissionManager : failed to check uid for com.miui.mishare.connectivity -1
+06-22 09:02:43.020 30372 30372 I PermissionManager : failed to check uid for com.miui.huanji -1
+06-22 09:02:43.022 30372 30372 I PermissionManager : failed to check uid for com.iot.xiaomi.miconnecttest -1
+06-22 09:02:43.024 30372 30372 I PermissionManager : failed to check uid for com.xiaomi.idm_autotest_android -1
+06-22 09:02:43.026 30372 30372 I PermissionManager : failed to check uid for com.miui.video -1
+06-22 09:02:43.027 30372 30372 I PermissionManager : failed to check uid for com.xiaomi.mitime -1
+06-22 09:02:43.029 30372 30372 I PermissionManager : failed to check uid for com.xiaomi.wearable -1
+06-22 09:02:43.029 30372 30372 I PermissionManager : perm loaded v: 7
+06-22 09:02:43.030 30372 30372 D ConfigMgr : config file: /data/user/0/com.xiaomi.mi_connect_service/files/config/config.json
+06-22 09:02:43.031 30372 30372 D DeviceUtil : platform type property: nosdcard
+06-22 09:02:43.031 30372 30372 D RegionUtil : ID
+06-22 09:02:43.088 30372 30399 I CloudCtrFileJob : work
+06-22 09:02:43.107 30372 30372 D PropertyUtils : is agreed: false
+06-22 09:02:43.117 30372 30372 D DeviceUtil : platform type property: nosdcard
+06-22 09:02:43.117 30372 30372 E Constant : is international: true
+06-22 09:02:43.117 30372 30372 E g:miconnect:  : not available
+06-22 09:02:43.117 30372 30372 E stat: MiotReportManager : -----init------: not available
+06-22 09:02:43.122 30372 30372 I MiConnectService : onCreate versionName:1.3.326 userId:0
+06-22 09:02:43.161 30372 30372 D PropertyUtils : is agreed: false
+06-22 09:02:43.162 30372 30372 E g:miconnect:  : not available
+06-22 09:02:43.163 30372 30372 D DeviceUtil : platform type property: nosdcard
+06-22 09:02:43.164 30372 30372 D BonjourGovernor : BonjourGovernor ver: 9.8.09.01
+06-22 09:02:43.171 30372 30401 D TimerStack : load all start
+06-22 09:02:43.184 30372 30372 D BonjourGovernor : DTLS Disabled
+06-22 09:02:43.218 30372 30401 D TimerStack : load all 47
+06-22 09:02:43.437 30372 30372 D BonjourGovernor : Start coapserver success, retry:0
+06-22 09:02:43.444 30372 30372 D MiConnectService : SYSTEM userId else: 0,APP USERID1000
+06-22 09:02:43.445 30372 30372 D BtGovernor : BleApi getBleGovernor
+06-22 09:02:43.445 30372 30372 D BtGovernor : BleApi BtGovernor Constructor, dev.1.2.0
+06-22 09:02:43.446 30372 30372 D DeviceUtil : platform type property: nosdcard
+06-22 09:02:43.447 30372 30372 D DeviceUtil : platform type property: nosdcard
+06-22 09:02:43.474 30372 30372 I BleClientService :  BleAttributeClientOperation Consturctor, dev.1.2.0
+06-22 09:02:43.474 30372 30372 I Discovery :  BleDiscovery Consturctor, dev.1.2.0
+06-22 09:02:43.476 30372 30372 D Discovery : scan mode=2
+06-22 09:02:43.480 30372 30372 I BleServerService :  BleAttributeServerOperation Consturctor, dev.1.2.0
+06-22 09:02:43.480 30372 30372 I BleAdvertising :  BleAdvertising Consturctor, dev.1.2.0
+06-22 09:02:43.488 30372 30372 I BleClientViaAttService :  BleClientService Consturctor, dev.1.2.0
+06-22 09:02:43.489 30372 30372 I BleServerViaAttService :  BleServerService Consturctor, dev.1.2.0
+06-22 09:02:43.489 30372 30372 E BtGovernor : Log enabled =false
+06-22 09:02:43.489 30372 30372 D BtGovernor : BleApi setCallback
+06-22 09:02:43.489 30372 30372 D BleBackGround : setCallback is set
+06-22 09:02:43.489 30372 30372 D BtGovernor : BleApi enableStateListener
+06-22 09:02:43.489 30372 30372 I BtGovernor : isAvailable enter
+06-22 09:02:43.491 30372 30372 D BtGovernor : BleApi init enter,dev.1.2.0
+06-22 09:02:43.493 30372 30372 D BleClientService : init enter, mIsInitiated=false
+06-22 09:02:43.494 30372 30372 D Discovery : init enter, mIsInitiated=false
+06-22 09:02:43.497 30372 30372 D BleServerService : init enter, mIsInitiated=false
+06-22 09:02:43.497 30372 30372 D BleServerService : Info: gattOperationValid is false
+06-22 09:02:43.497 30372 30372 D BleAdvertising : init enter, mIsInitiated=false
+06-22 09:02:43.498 30372 30372 D BtGovernor : BleApi setupRfcomm enter
+06-22 09:02:43.501 30372 30372 D BluetoothRfcommService : start
+06-22 09:02:43.546 30372 30372 D BleClientViaAttService : init enter, mIsInitiated=false
+06-22 09:02:43.546 30372 30372 D BleServerViaAttService : init enter, mIsInitiated=false
+06-22 09:02:43.546 30372 30372 D BleServerViaAttService : Info: gattOperationValid is false
+06-22 09:02:43.547 30372 30372 D BleBackGround : startBindBackGoundService
+06-22 09:02:43.547 30372 30372 D DeviceUtil : platform type property: nosdcard
+06-22 09:02:43.547 30372 30372 D BleBackGround : startBindbackGoundService
+06-22 09:02:43.555 30372 30372 D WifiGovernor : Wifi Governor Constructor
+06-22 09:02:43.560 30372 30422 D BluetoothRfcommService : Socket Type: Insecure BEGIN mAcceptThread Thread[Thread-2,5,main]
+06-22 09:02:43.561 30372 30422 D BluetoothRfcommService : mState : 1
+06-22 09:02:43.564 30372 30399 I CloudCtrFileJob : done
+06-22 09:02:43.564 30372 30399 D CloudCtrBaseJob : work
+06-22 09:02:43.576 30372 30372 D WifiGovernor : DTLS Disabled
+06-22 09:02:43.578 30372 30372 E WifiGovernor : isAvailable() : true
+06-22 09:02:43.578 30372 30372 D WifiGovernor : Init enter
+06-22 09:02:43.587 30372 30372 D WifiGovernor : Start coap server success, retry:0
+06-22 09:02:43.587 30372 30372 D DeviceUtil : platform type property: nosdcard
+06-22 09:02:43.592 30372 30372 I NfcAdvPresenter : registerReceiver
+06-22 09:02:43.592 30372 30372 D DeviceUtil : platform type property: nosdcard
+06-22 09:02:43.592 30372 30372 D DeviceUtil : platform type property: nosdcard
+06-22 09:02:43.593 30372 30372 I NfcScanHelper : ---start---state:IDEL
+06-22 09:02:43.599 30372 30372 I NfcMessagePublisher : use NfcScanHelper
+06-22 09:02:43.600 30372 30372 D DeviceUtil : platform type property: nosdcard
+06-22 09:02:43.602 30372 30372 D DeviceUtil : platform type property: nosdcard
+06-22 09:02:43.603 30372 30372 I NfcGovernor : isAvailable false
+06-22 09:02:43.603 30372 30372 D MiConnectService : NFC available false
+06-22 09:02:43.603 30372 30372 D DeviceUtil : platform type property: nosdcard
+06-22 09:02:43.604 30372 30372 I NfcGovernor : isAvailable false
+06-22 09:02:43.605 30372 30372 D BtGovernor : BleApi setAdvertisingCallback enter
+06-22 09:02:43.605 30372 30372 D BtGovernor : BleApi setDiscoveryCallback enter
+06-22 09:02:43.605 30372 30372 D Discovery : setCallback enter
+06-22 09:02:43.605 30372 30372 D BleBackGround : setBackGroundDiscoveryCallback enter
+06-22 09:02:43.624 30372 30372 D BtGovernor : BleApi setAttributeCallback enter
+06-22 09:02:43.732 30372 30399 D CloudCtrBaseJob : done
+06-22 09:02:43.734 30372 30372 D MiIdentity : load local
+06-22 09:02:43.734 30372 30372 D MiConnectService : ScreenStateObserver.EnableObserve main
+06-22 09:02:43.736 30372 30372 D MiConnectService : UserSwitchedObserver.EnableObserve main
+06-22 09:02:43.750 30372 30372 D MiConnectService : Register name change observer for phone
+06-22 09:02:43.750 30372 30372 D MiConnectService : PhoneSystemNameChangeObserver.EnableObserve main
+06-22 09:02:43.890 30372 30372 D IDMNative : init
+06-22 09:02:43.895 30372 30372 D IDMNative : registerIotService, uuid:ffff3ffc-09da-4bed-9652-f507366fcfc5
+06-22 09:02:43.906 30372 30372 D DeviceUtil : platform type property: nosdcard
+06-22 09:02:43.910 30372 30372 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 09:02:43.935 30372 30372 E BleBackGround : MiConnect bind MiNearby background success
+06-22 09:02:43.939 30372 30372 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 09:02:43.948 30372 30372 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 09:02:43.948 30372 30372 D CommStateMonitor : onReceive: android.net.wifi.WIFI_STATE_CHANGED
+06-22 09:02:43.948 30372 30372 D CommStateMonitor : onReceive: android.net.wifi.STATE_CHANGE
+06-22 09:02:43.948 30372 30372 D CommStateMonitor : isConnected: false
+06-22 09:38:54.486 30372 30372 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 09:46:05.140 30372 30372 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 09:46:05.195 30372 30372 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 09:46:08.428 30372 30372 I BtGovernor : isAvailable enter
+06-22 09:46:08.430 30372 30372 D BtGovernor : BleApi stopbackGroundScan
+06-22 10:33:48.597 30372 30372 D DiscoveryManager : start
+06-22 10:33:48.597 30372 30372 I BtGovernor : isAvailable enter
+06-22 10:33:48.599 30372 30372 D BtGovernor : BleApi startBackGroundScan
+06-22 10:33:48.599 30372 30372 D BleBackGround : startBindbackGoundService
+06-22 10:33:48.612 30372 30372 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 10:33:48.651 30372 30372 E BleBackGround : MiConnect bind MiNearby background success
+06-22 10:33:48.660 30372 30372 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 10:33:51.214 30372 30372 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 11:25:36.979 20601 20601 I LogUtil : LogUtils init, A new application started
+06-22 11:25:37.014 20601 20601 D PermissionManager : mIsSelfDebugSignature = false
+06-22 11:25:37.023 20601 20601 I PermissionManager : load permission file
+06-22 11:25:37.029 20601 20601 I PermissionManager : failed to check uid for com.miui.mishare.connectivity -1
+06-22 11:25:37.034 20601 20601 I PermissionManager : failed to check uid for com.miui.huanji -1
+06-22 11:25:37.049 20601 20601 I PermissionManager : failed to check uid for com.iot.xiaomi.miconnecttest -1
+06-22 11:25:37.050 20601 20601 I PermissionManager : failed to check uid for com.xiaomi.idm_autotest_android -1
+06-22 11:25:37.050 20601 20601 I PermissionManager : failed to check uid for com.miui.video -1
+06-22 11:25:37.051 20601 20601 I PermissionManager : failed to check uid for com.xiaomi.mitime -1
+06-22 11:25:37.053 20601 20601 I PermissionManager : failed to check uid for com.xiaomi.wearable -1
+06-22 11:25:37.053 20601 20601 I PermissionManager : perm loaded v: 7
+06-22 11:25:37.054 20601 20601 D ConfigMgr : config file: /data/user/0/com.xiaomi.mi_connect_service/files/config/config.json
+06-22 11:25:37.056 20601 20601 D DeviceUtil : platform type property: nosdcard
+06-22 11:25:37.056 20601 20601 D RegionUtil : ID
+06-22 11:25:37.112 20601 20665 I CloudCtrFileJob : work
+06-22 11:25:37.121 20601 20601 D PropertyUtils : is agreed: false
+06-22 11:25:37.131 20601 20601 D DeviceUtil : platform type property: nosdcard
+06-22 11:25:37.131 20601 20601 E Constant : is international: true
+06-22 11:25:37.131 20601 20601 E g:miconnect:  : not available
+06-22 11:25:37.132 20601 20601 E stat: MiotReportManager : -----init------: not available
+06-22 11:25:37.149 20601 20601 I MiConnectService : onCreate versionName:1.3.326 userId:0
+06-22 11:25:37.164 20601 20601 D PropertyUtils : is agreed: false
+06-22 11:25:37.171 20601 20601 E g:miconnect:  : not available
+06-22 11:25:37.173 20601 20601 D DeviceUtil : platform type property: nosdcard
+06-22 11:25:37.178 20601 20601 D BonjourGovernor : BonjourGovernor ver: 9.8.09.01
+06-22 11:25:37.185 20601 20670 D TimerStack : load all start
+06-22 11:25:37.221 20601 20601 D BonjourGovernor : DTLS Disabled
+06-22 11:25:37.251 20601 20670 D TimerStack : load all 66
+06-22 11:25:37.478 20601 20601 D BonjourGovernor : Start coapserver success, retry:0
+06-22 11:25:37.487 20601 20601 D MiConnectService : SYSTEM userId else: 0,APP USERID1000
+06-22 11:25:37.488 20601 20601 D BtGovernor : BleApi getBleGovernor
+06-22 11:25:37.488 20601 20601 D BtGovernor : BleApi BtGovernor Constructor, dev.1.2.0
+06-22 11:25:37.489 20601 20601 D DeviceUtil : platform type property: nosdcard
+06-22 11:25:37.490 20601 20601 D DeviceUtil : platform type property: nosdcard
+06-22 11:25:37.517 20601 20601 I BleClientService :  BleAttributeClientOperation Consturctor, dev.1.2.0
+06-22 11:25:37.517 20601 20601 I Discovery :  BleDiscovery Consturctor, dev.1.2.0
+06-22 11:25:37.519 20601 20601 D Discovery : scan mode=2
+06-22 11:25:37.523 20601 20601 I BleServerService :  BleAttributeServerOperation Consturctor, dev.1.2.0
+06-22 11:25:37.523 20601 20601 I BleAdvertising :  BleAdvertising Consturctor, dev.1.2.0
+06-22 11:25:37.544 20601 20665 I CloudCtrFileJob : done
+06-22 11:25:37.544 20601 20665 D CloudCtrBaseJob : work
+06-22 11:25:37.545 20601 20601 I BleClientViaAttService :  BleClientService Consturctor, dev.1.2.0
+06-22 11:25:37.546 20601 20601 I BleServerViaAttService :  BleServerService Consturctor, dev.1.2.0
+06-22 11:25:37.546 20601 20601 E BtGovernor : Log enabled =false
+06-22 11:25:37.546 20601 20601 D BtGovernor : BleApi setCallback
+06-22 11:25:37.546 20601 20601 D BleBackGround : setCallback is set
+06-22 11:25:37.546 20601 20601 D BtGovernor : BleApi enableStateListener
+06-22 11:25:37.546 20601 20601 I BtGovernor : isAvailable enter
+06-22 11:25:37.548 20601 20601 D BtGovernor : BleApi init enter,dev.1.2.0
+06-22 11:25:37.552 20601 20601 D BleClientService : init enter, mIsInitiated=false
+06-22 11:25:37.552 20601 20601 D Discovery : init enter, mIsInitiated=false
+06-22 11:25:37.558 20601 20601 D BleServerService : init enter, mIsInitiated=false
+06-22 11:25:37.558 20601 20601 D BleServerService : Info: gattOperationValid is false
+06-22 11:25:37.558 20601 20601 D BleAdvertising : init enter, mIsInitiated=false
+06-22 11:25:37.560 20601 20601 D BtGovernor : BleApi setupRfcomm enter
+06-22 11:25:37.564 20601 20601 D BluetoothRfcommService : start
+06-22 11:25:37.596 20601 20601 D BleClientViaAttService : init enter, mIsInitiated=false
+06-22 11:25:37.596 20601 20601 D BleServerViaAttService : init enter, mIsInitiated=false
+06-22 11:25:37.596 20601 20601 D BleServerViaAttService : Info: gattOperationValid is false
+06-22 11:25:37.596 20601 20601 D BleBackGround : startBindBackGoundService
+06-22 11:25:37.596 20601 20601 D DeviceUtil : platform type property: nosdcard
+06-22 11:25:37.597 20601 20601 D BleBackGround : startBindbackGoundService
+06-22 11:25:37.600 20601 20723 D BluetoothRfcommService : Socket Type: Insecure BEGIN mAcceptThread Thread[Thread-2,5,main]
+06-22 11:25:37.600 20601 20723 D BluetoothRfcommService : mState : 1
+06-22 11:25:37.618 20601 20601 D WifiGovernor : Wifi Governor Constructor
+06-22 11:25:37.659 20601 20601 D WifiGovernor : DTLS Disabled
+06-22 11:25:37.666 20601 20601 E WifiGovernor : isAvailable() : true
+06-22 11:25:37.666 20601 20601 D WifiGovernor : Init enter
+06-22 11:25:37.676 20601 20601 D WifiGovernor : Start coap server success, retry:0
+06-22 11:25:37.677 20601 20601 D DeviceUtil : platform type property: nosdcard
+06-22 11:25:37.701 20601 20601 I NfcAdvPresenter : registerReceiver
+06-22 11:25:37.701 20601 20601 D DeviceUtil : platform type property: nosdcard
+06-22 11:25:37.701 20601 20601 D DeviceUtil : platform type property: nosdcard
+06-22 11:25:37.702 20601 20601 I NfcScanHelper : ---start---state:IDEL
+06-22 11:25:37.710 20601 20601 I NfcMessagePublisher : use NfcScanHelper
+06-22 11:25:37.710 20601 20601 D DeviceUtil : platform type property: nosdcard
+06-22 11:25:37.715 20601 20601 D DeviceUtil : platform type property: nosdcard
+06-22 11:25:37.716 20601 20601 I NfcGovernor : isAvailable false
+06-22 11:25:37.716 20601 20601 D MiConnectService : NFC available false
+06-22 11:25:37.716 20601 20601 D DeviceUtil : platform type property: nosdcard
+06-22 11:25:37.717 20601 20601 I NfcGovernor : isAvailable false
+06-22 11:25:37.717 20601 20601 D BtGovernor : BleApi setAdvertisingCallback enter
+06-22 11:25:37.717 20601 20601 D BtGovernor : BleApi setDiscoveryCallback enter
+06-22 11:25:37.718 20601 20601 D Discovery : setCallback enter
+06-22 11:25:37.718 20601 20601 D BleBackGround : setBackGroundDiscoveryCallback enter
+06-22 11:25:37.732 20601 20601 D BtGovernor : BleApi setAttributeCallback enter
+06-22 11:25:37.817 20601 20665 D CloudCtrBaseJob : done
+06-22 11:25:37.970 20601 20601 D MiIdentity : load local
+06-22 11:25:37.970 20601 20601 D MiConnectService : ScreenStateObserver.EnableObserve main
+06-22 11:25:37.975 20601 20601 D MiConnectService : UserSwitchedObserver.EnableObserve main
+06-22 11:25:37.997 20601 20601 D MiConnectService : Register name change observer for phone
+06-22 11:25:37.997 20601 20601 D MiConnectService : PhoneSystemNameChangeObserver.EnableObserve main
+06-22 11:25:38.186 20601 20601 D IDMNative : init
+06-22 11:25:38.193 20601 20601 D IDMNative : registerIotService, uuid:ffff3ffc-09da-4bed-9652-f507366fcfc5
+06-22 11:25:38.212 20601 20601 D DeviceUtil : platform type property: nosdcard
+06-22 11:25:38.218 20601 20601 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 11:25:38.218 20601 20601 D CommStateMonitor : onReceive: android.net.wifi.WIFI_STATE_CHANGED
+06-22 11:25:38.218 20601 20601 D CommStateMonitor : onReceive: android.net.wifi.STATE_CHANGE
+06-22 11:25:38.231 20601 20601 D CommStateMonitor : isConnected: false
+06-22 11:25:38.290 20601 20601 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 11:25:38.324 20601 20601 E BleBackGround : MiConnect bind MiNearby background success
+06-22 11:25:38.345 20601 20601 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 11:50:22.503 20601 20601 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 11:50:24.518 20601 20601 I BtGovernor : isAvailable enter
+06-22 11:50:24.521 20601 20601 D BtGovernor : BleApi stopbackGroundScan
+06-22 11:50:33.214 20601 20601 D DiscoveryManager : start
+06-22 11:50:33.217 20601 20601 I BtGovernor : isAvailable enter
+06-22 11:50:33.229 20601 20601 D BtGovernor : BleApi startBackGroundScan
+06-22 11:50:33.229 20601 20601 D BleBackGround : startBindbackGoundService
+06-22 11:50:33.246 20601 20601 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 11:50:33.294 20601 20601 E BleBackGround : MiConnect bind MiNearby background success
+06-22 11:50:33.301 20601 20601 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 11:50:53.283 20601 20601 I BtGovernor : isAvailable enter
+06-22 11:50:53.285 20601 20601 D BtGovernor : BleApi stopbackGroundScan
+06-22 12:18:17.529 20601 20601 D DiscoveryManager : start
+06-22 12:18:17.530 20601 20601 I BtGovernor : isAvailable enter
+06-22 12:18:17.531 20601 20601 D BtGovernor : BleApi startBackGroundScan
+06-22 12:18:17.532 20601 20601 D BleBackGround : startBindbackGoundService
+06-22 12:18:17.547 20601 20601 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 12:18:17.611 20601 20601 E BleBackGround : MiConnect bind MiNearby background success
+06-22 12:18:17.625 20601 20601 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 12:18:21.054 20601 20601 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 12:23:51.173 4247 4247 I LogUtil : LogUtils init, A new application started
+06-22 12:23:51.193 4247 4247 D PermissionManager : mIsSelfDebugSignature = false
+06-22 12:23:51.199 4247 4247 I PermissionManager : load permission file
+06-22 12:23:51.203 4247 4247 I PermissionManager : failed to check uid for com.miui.mishare.connectivity -1
+06-22 12:23:51.205 4247 4247 I PermissionManager : failed to check uid for com.miui.huanji -1
+06-22 12:23:51.207 4247 4247 I PermissionManager : failed to check uid for com.iot.xiaomi.miconnecttest -1
+06-22 12:23:51.208 4247 4247 I PermissionManager : failed to check uid for com.xiaomi.idm_autotest_android -1
+06-22 12:23:51.210 4247 4247 I PermissionManager : failed to check uid for com.miui.video -1
+06-22 12:23:51.211 4247 4247 I PermissionManager : failed to check uid for com.xiaomi.mitime -1
+06-22 12:23:51.213 4247 4247 I PermissionManager : failed to check uid for com.xiaomi.wearable -1
+06-22 12:23:51.213 4247 4247 I PermissionManager : perm loaded v: 7
+06-22 12:23:51.214 4247 4247 D ConfigMgr : config file: /data/user/0/com.xiaomi.mi_connect_service/files/config/config.json
+06-22 12:23:51.215 4247 4247 D DeviceUtil : platform type property: nosdcard
+06-22 12:23:51.215 4247 4247 D RegionUtil : ID
+06-22 12:23:51.269 4247 4274 I CloudCtrFileJob : work
+06-22 12:23:51.284 4247 4247 D PropertyUtils : is agreed: false
+06-22 12:23:51.291 4247 4247 D DeviceUtil : platform type property: nosdcard
+06-22 12:23:51.291 4247 4247 E Constant : is international: true
+06-22 12:23:51.292 4247 4247 E g:miconnect:  : not available
+06-22 12:23:51.292 4247 4247 E stat: MiotReportManager : -----init------: not available
+06-22 12:23:51.298 4247 4247 I MiConnectService : onCreate versionName:1.3.326 userId:0
+06-22 12:23:51.313 4247 4247 D PropertyUtils : is agreed: false
+06-22 12:23:51.314 4247 4247 E g:miconnect:  : not available
+06-22 12:23:51.315 4247 4247 D DeviceUtil : platform type property: nosdcard
+06-22 12:23:51.317 4247 4247 D BonjourGovernor : BonjourGovernor ver: 9.8.09.01
+06-22 12:23:51.318 4247 4277 D TimerStack : load all start
+06-22 12:23:51.341 4247 4247 D BonjourGovernor : DTLS Disabled
+06-22 12:23:51.389 4247 4277 D TimerStack : load all 71
+06-22 12:23:51.573 4247 4247 D BonjourGovernor : Start coapserver success, retry:0
+06-22 12:23:51.578 4247 4247 D MiConnectService : SYSTEM userId else: 0,APP USERID1000
+06-22 12:23:51.579 4247 4247 D BtGovernor : BleApi getBleGovernor
+06-22 12:23:51.579 4247 4247 D BtGovernor : BleApi BtGovernor Constructor, dev.1.2.0
+06-22 12:23:51.579 4247 4247 D DeviceUtil : platform type property: nosdcard
+06-22 12:23:51.580 4247 4247 D DeviceUtil : platform type property: nosdcard
+06-22 12:23:51.590 4247 4247 I BleClientService :  BleAttributeClientOperation Consturctor, dev.1.2.0
+06-22 12:23:51.590 4247 4247 I Discovery :  BleDiscovery Consturctor, dev.1.2.0
+06-22 12:23:51.590 4247 4247 D Discovery : scan mode=2
+06-22 12:23:51.591 4247 4247 I BleServerService :  BleAttributeServerOperation Consturctor, dev.1.2.0
+06-22 12:23:51.591 4247 4247 I BleAdvertising :  BleAdvertising Consturctor, dev.1.2.0
+06-22 12:23:51.598 4247 4247 I BleClientViaAttService :  BleClientService Consturctor, dev.1.2.0
+06-22 12:23:51.598 4247 4247 I BleServerViaAttService :  BleServerService Consturctor, dev.1.2.0
+06-22 12:23:51.599 4247 4247 E BtGovernor : Log enabled =false
+06-22 12:23:51.599 4247 4247 D BtGovernor : BleApi setCallback
+06-22 12:23:51.599 4247 4247 D BleBackGround : setCallback is set
+06-22 12:23:51.599 4247 4247 D BtGovernor : BleApi enableStateListener
+06-22 12:23:51.599 4247 4247 I BtGovernor : isAvailable enter
+06-22 12:23:51.601 4247 4247 D BtGovernor : BleApi init enter,dev.1.2.0
+06-22 12:23:51.604 4247 4247 D BleClientService : init enter, mIsInitiated=false
+06-22 12:23:51.604 4247 4247 D Discovery : init enter, mIsInitiated=false
+06-22 12:23:51.607 4247 4247 D BleServerService : init enter, mIsInitiated=false
+06-22 12:23:51.607 4247 4247 D BleServerService : Info: gattOperationValid is false
+06-22 12:23:51.607 4247 4247 D BleAdvertising : init enter, mIsInitiated=false
+06-22 12:23:51.608 4247 4247 D BtGovernor : BleApi setupRfcomm enter
+06-22 12:23:51.610 4247 4247 D BluetoothRfcommService : start
+06-22 12:23:51.641 4247 4274 I CloudCtrFileJob : done
+06-22 12:23:51.641 4247 4274 D CloudCtrBaseJob : work
+06-22 12:23:51.654 4247 4247 D BleClientViaAttService : init enter, mIsInitiated=false
+06-22 12:23:51.654 4247 4247 D BleServerViaAttService : init enter, mIsInitiated=false
+06-22 12:23:51.654 4247 4247 D BleServerViaAttService : Info: gattOperationValid is false
+06-22 12:23:51.654 4247 4247 D BleBackGround : startBindBackGoundService
+06-22 12:23:51.654 4247 4247 D DeviceUtil : platform type property: nosdcard
+06-22 12:23:51.655 4247 4247 D BleBackGround : startBindbackGoundService
+06-22 12:23:51.656 4247 4297 D BluetoothRfcommService : Socket Type: Insecure BEGIN mAcceptThread Thread[Thread-2,5,main]
+06-22 12:23:51.656 4247 4297 D BluetoothRfcommService : mState : 1
+06-22 12:23:51.661 4247 4247 D WifiGovernor : Wifi Governor Constructor
+06-22 12:23:51.672 4247 4247 D WifiGovernor : DTLS Disabled
+06-22 12:23:51.673 4247 4247 E WifiGovernor : isAvailable() : true
+06-22 12:23:51.673 4247 4247 D WifiGovernor : Init enter
+06-22 12:23:51.678 4247 4247 D WifiGovernor : Start coap server success, retry:0
+06-22 12:23:51.679 4247 4247 D DeviceUtil : platform type property: nosdcard
+06-22 12:23:51.683 4247 4247 I NfcAdvPresenter : registerReceiver
+06-22 12:23:51.684 4247 4247 D DeviceUtil : platform type property: nosdcard
+06-22 12:23:51.684 4247 4247 D DeviceUtil : platform type property: nosdcard
+06-22 12:23:51.684 4247 4247 I NfcScanHelper : ---start---state:IDEL
+06-22 12:23:51.687 4247 4247 I NfcMessagePublisher : use NfcScanHelper
+06-22 12:23:51.687 4247 4247 D DeviceUtil : platform type property: nosdcard
+06-22 12:23:51.689 4247 4247 D DeviceUtil : platform type property: nosdcard
+06-22 12:23:51.690 4247 4247 I NfcGovernor : isAvailable false
+06-22 12:23:51.690 4247 4247 D MiConnectService : NFC available false
+06-22 12:23:51.690 4247 4247 D DeviceUtil : platform type property: nosdcard
+06-22 12:23:51.691 4247 4247 I NfcGovernor : isAvailable false
+06-22 12:23:51.691 4247 4247 D BtGovernor : BleApi setAdvertisingCallback enter
+06-22 12:23:51.691 4247 4247 D BtGovernor : BleApi setDiscoveryCallback enter
+06-22 12:23:51.691 4247 4247 D Discovery : setCallback enter
+06-22 12:23:51.691 4247 4247 D BleBackGround : setBackGroundDiscoveryCallback enter
+06-22 12:23:51.703 4247 4247 D BtGovernor : BleApi setAttributeCallback enter
+06-22 12:23:51.811 4247 4247 D MiIdentity : load local
+06-22 12:23:51.811 4247 4247 D MiConnectService : ScreenStateObserver.EnableObserve main
+06-22 12:23:51.814 4247 4247 D MiConnectService : UserSwitchedObserver.EnableObserve main
+06-22 12:23:51.822 4247 4274 D CloudCtrBaseJob : done
+06-22 12:23:51.829 4247 4247 D MiConnectService : Register name change observer for phone
+06-22 12:23:51.829 4247 4247 D MiConnectService : PhoneSystemNameChangeObserver.EnableObserve main
+06-22 12:23:51.989 4247 4247 D IDMNative : init
+06-22 12:23:51.998 4247 4247 D IDMNative : registerIotService, uuid:ffff3ffc-09da-4bed-9652-f507366fcfc5
+06-22 12:23:52.010 4247 4247 D DeviceUtil : platform type property: nosdcard
+06-22 12:23:52.015 4247 4247 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 12:23:52.036 4247 4247 E BleBackGround : MiConnect bind MiNearby background success
+06-22 12:23:52.041 4247 4247 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 12:23:52.046 4247 4247 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 12:23:52.046 4247 4247 D CommStateMonitor : onReceive: android.net.wifi.WIFI_STATE_CHANGED
+06-22 12:23:52.046 4247 4247 D CommStateMonitor : onReceive: android.net.wifi.STATE_CHANGE
+06-22 12:23:52.046 4247 4247 D CommStateMonitor : isConnected: false
+06-22 14:08:40.022 4247 4247 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 14:08:45.801 4247 4247 I BtGovernor : isAvailable enter
+06-22 14:08:45.805 4247 4247 D BtGovernor : BleApi stopbackGroundScan
+06-22 14:10:31.998 4247 4247 D DiscoveryManager : start
+06-22 14:10:31.998 4247 4247 I BtGovernor : isAvailable enter
+06-22 14:10:32.000 4247 4247 D BtGovernor : BleApi startBackGroundScan
+06-22 14:10:32.000 4247 4247 D BleBackGround : startBindbackGoundService
+06-22 14:10:32.018 4247 4247 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 14:10:32.062 4247 4247 E BleBackGround : MiConnect bind MiNearby background success
+06-22 14:10:32.071 4247 4247 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 14:10:36.842 4247 4247 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 14:34:07.607 9732 9732 I LogUtil : LogUtils init, A new application started
+06-22 14:34:07.620 9732 9732 D PermissionManager : mIsSelfDebugSignature = false
+06-22 14:34:07.625 9732 9732 I PermissionManager : load permission file
+06-22 14:34:07.628 9732 9732 I PermissionManager : failed to check uid for com.miui.mishare.connectivity -1
+06-22 14:34:07.630 9732 9732 I PermissionManager : failed to check uid for com.miui.huanji -1
+06-22 14:34:07.631 9732 9732 I PermissionManager : failed to check uid for com.iot.xiaomi.miconnecttest -1
+06-22 14:34:07.632 9732 9732 I PermissionManager : failed to check uid for com.xiaomi.idm_autotest_android -1
+06-22 14:34:07.633 9732 9732 I PermissionManager : failed to check uid for com.miui.video -1
+06-22 14:34:07.634 9732 9732 I PermissionManager : failed to check uid for com.xiaomi.mitime -1
+06-22 14:34:07.635 9732 9732 I PermissionManager : failed to check uid for com.xiaomi.wearable -1
+06-22 14:34:07.635 9732 9732 I PermissionManager : perm loaded v: 7
+06-22 14:34:07.636 9732 9732 D ConfigMgr : config file: /data/user/0/com.xiaomi.mi_connect_service/files/config/config.json
+06-22 14:34:07.637 9732 9732 D DeviceUtil : platform type property: nosdcard
+06-22 14:34:07.637 9732 9732 D RegionUtil : ID
+06-22 14:34:07.677 9732 9758 I CloudCtrFileJob : work
+06-22 14:34:07.681 9732 9732 D PropertyUtils : is agreed: false
+06-22 14:34:07.688 9732 9732 D DeviceUtil : platform type property: nosdcard
+06-22 14:34:07.688 9732 9732 E Constant : is international: true
+06-22 14:34:07.689 9732 9732 E g:miconnect:  : not available
+06-22 14:34:07.689 9732 9732 E stat: MiotReportManager : -----init------: not available
+06-22 14:34:07.693 9732 9732 I MiConnectService : onCreate versionName:1.3.326 userId:0
+06-22 14:34:07.705 9732 9732 D PropertyUtils : is agreed: false
+06-22 14:34:07.706 9732 9732 E g:miconnect:  : not available
+06-22 14:34:07.706 9732 9732 D DeviceUtil : platform type property: nosdcard
+06-22 14:34:07.708 9732 9732 D BonjourGovernor : BonjourGovernor ver: 9.8.09.01
+06-22 14:34:07.715 9732 9762 D TimerStack : load all start
+06-22 14:34:07.724 9732 9732 D BonjourGovernor : DTLS Disabled
+06-22 14:34:07.759 9732 9762 D TimerStack : load all 44
+06-22 14:34:07.952 9732 9732 D BonjourGovernor : Start coapserver success, retry:0
+06-22 14:34:07.956 9732 9732 D MiConnectService : SYSTEM userId else: 0,APP USERID1000
+06-22 14:34:07.956 9732 9732 D BtGovernor : BleApi getBleGovernor
+06-22 14:34:07.956 9732 9732 D BtGovernor : BleApi BtGovernor Constructor, dev.1.2.0
+06-22 14:34:07.956 9732 9732 D DeviceUtil : platform type property: nosdcard
+06-22 14:34:07.957 9732 9732 D DeviceUtil : platform type property: nosdcard
+06-22 14:34:07.967 9732 9732 I BleClientService :  BleAttributeClientOperation Consturctor, dev.1.2.0
+06-22 14:34:07.967 9732 9732 I Discovery :  BleDiscovery Consturctor, dev.1.2.0
+06-22 14:34:07.968 9732 9732 D Discovery : scan mode=2
+06-22 14:34:07.969 9732 9732 I BleServerService :  BleAttributeServerOperation Consturctor, dev.1.2.0
+06-22 14:34:07.970 9732 9732 I BleAdvertising :  BleAdvertising Consturctor, dev.1.2.0
+06-22 14:34:07.977 9732 9732 I BleClientViaAttService :  BleClientService Consturctor, dev.1.2.0
+06-22 14:34:07.978 9732 9732 I BleServerViaAttService :  BleServerService Consturctor, dev.1.2.0
+06-22 14:34:07.978 9732 9732 E BtGovernor : Log enabled =false
+06-22 14:34:07.978 9732 9732 D BtGovernor : BleApi setCallback
+06-22 14:34:07.978 9732 9732 D BleBackGround : setCallback is set
+06-22 14:34:07.978 9732 9732 D BtGovernor : BleApi enableStateListener
+06-22 14:34:07.978 9732 9732 I BtGovernor : isAvailable enter
+06-22 14:34:07.980 9732 9732 D BtGovernor : BleApi init enter,dev.1.2.0
+06-22 14:34:07.983 9732 9732 D BleClientService : init enter, mIsInitiated=false
+06-22 14:34:07.983 9732 9732 D Discovery : init enter, mIsInitiated=false
+06-22 14:34:07.985 9732 9732 D BleServerService : init enter, mIsInitiated=false
+06-22 14:34:07.985 9732 9732 D BleServerService : Info: gattOperationValid is false
+06-22 14:34:07.985 9732 9732 D BleAdvertising : init enter, mIsInitiated=false
+06-22 14:34:07.986 9732 9732 D BtGovernor : BleApi setupRfcomm enter
+06-22 14:34:07.993 9732 9758 I CloudCtrFileJob : done
+06-22 14:34:07.993 9732 9758 D CloudCtrBaseJob : work
+06-22 14:34:07.993 9732 9732 D BluetoothRfcommService : start
+06-22 14:34:08.029 9732 9732 D BleClientViaAttService : init enter, mIsInitiated=false
+06-22 14:34:08.029 9732 9732 D BleServerViaAttService : init enter, mIsInitiated=false
+06-22 14:34:08.029 9732 9732 D BleServerViaAttService : Info: gattOperationValid is false
+06-22 14:34:08.029 9732 9732 D BleBackGround : startBindBackGoundService
+06-22 14:34:08.029 9732 9732 D DeviceUtil : platform type property: nosdcard
+06-22 14:34:08.029 9732 9732 D BleBackGround : startBindbackGoundService
+06-22 14:34:08.034 9732 9783 D BluetoothRfcommService : Socket Type: Insecure BEGIN mAcceptThread Thread[Thread-2,5,main]
+06-22 14:34:08.034 9732 9783 D BluetoothRfcommService : mState : 1
+06-22 14:34:08.038 9732 9732 D WifiGovernor : Wifi Governor Constructor
+06-22 14:34:08.053 9732 9732 D WifiGovernor : DTLS Disabled
+06-22 14:34:08.054 9732 9732 E WifiGovernor : isAvailable() : true
+06-22 14:34:08.054 9732 9732 D WifiGovernor : Init enter
+06-22 14:34:08.062 9732 9732 D WifiGovernor : Start coap server success, retry:0
+06-22 14:34:08.062 9732 9732 D DeviceUtil : platform type property: nosdcard
+06-22 14:34:08.066 9732 9732 I NfcAdvPresenter : registerReceiver
+06-22 14:34:08.067 9732 9732 D DeviceUtil : platform type property: nosdcard
+06-22 14:34:08.067 9732 9732 D DeviceUtil : platform type property: nosdcard
+06-22 14:34:08.068 9732 9732 I NfcScanHelper : ---start---state:IDEL
+06-22 14:34:08.070 9732 9732 I NfcMessagePublisher : use NfcScanHelper
+06-22 14:34:08.070 9732 9732 D DeviceUtil : platform type property: nosdcard
+06-22 14:34:08.072 9732 9732 D DeviceUtil : platform type property: nosdcard
+06-22 14:34:08.072 9732 9732 I NfcGovernor : isAvailable false
+06-22 14:34:08.073 9732 9732 D MiConnectService : NFC available false
+06-22 14:34:08.073 9732 9732 D DeviceUtil : platform type property: nosdcard
+06-22 14:34:08.073 9732 9732 I NfcGovernor : isAvailable false
+06-22 14:34:08.074 9732 9732 D BtGovernor : BleApi setAdvertisingCallback enter
+06-22 14:34:08.074 9732 9732 D BtGovernor : BleApi setDiscoveryCallback enter
+06-22 14:34:08.074 9732 9732 D Discovery : setCallback enter
+06-22 14:34:08.074 9732 9732 D BleBackGround : setBackGroundDiscoveryCallback enter
+06-22 14:34:08.087 9732 9732 D BtGovernor : BleApi setAttributeCallback enter
+06-22 14:34:08.208 9732 9758 D CloudCtrBaseJob : done
+06-22 14:34:08.222 9732 9732 D MiIdentity : load local
+06-22 14:34:08.222 9732 9732 D MiConnectService : ScreenStateObserver.EnableObserve main
+06-22 14:34:08.226 9732 9732 D MiConnectService : UserSwitchedObserver.EnableObserve main
+06-22 14:34:08.250 9732 9732 D MiConnectService : Register name change observer for phone
+06-22 14:34:08.251 9732 9732 D MiConnectService : PhoneSystemNameChangeObserver.EnableObserve main
+06-22 14:34:08.360 9732 9732 D IDMNative : init
+06-22 14:34:08.366 9732 9732 D IDMNative : registerIotService, uuid:ffff3ffc-09da-4bed-9652-f507366fcfc5
+06-22 14:34:08.375 9732 9732 D DeviceUtil : platform type property: nosdcard
+06-22 14:34:08.380 9732 9732 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 14:34:08.396 9732 9732 E BleBackGround : MiConnect bind MiNearby background success
+06-22 14:34:08.408 9732 9732 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 14:34:08.418 9732 9732 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 14:34:08.419 9732 9732 D CommStateMonitor : onReceive: android.net.wifi.WIFI_STATE_CHANGED
+06-22 14:34:08.419 9732 9732 D CommStateMonitor : onReceive: android.net.wifi.STATE_CHANGE
+06-22 14:34:08.420 9732 9732 D CommStateMonitor : isConnected: false
+06-22 14:36:56.424 9732 9732 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 14:36:57.880 9732 9732 I BtGovernor : isAvailable enter
+06-22 14:36:57.881 9732 9732 D BtGovernor : BleApi stopbackGroundScan
+06-22 14:54:10.791 9732 9732 D DiscoveryManager : start
+06-22 14:54:10.791 9732 9732 I BtGovernor : isAvailable enter
+06-22 14:54:10.803 9732 9732 D BtGovernor : BleApi startBackGroundScan
+06-22 14:54:10.803 9732 9732 D BleBackGround : startBindbackGoundService
+06-22 14:54:10.808 9732 9732 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 14:54:10.818 9732 9732 E BleBackGround : MiConnect bind MiNearby background success
+06-22 14:54:10.822 9732 9732 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 14:54:14.163 9732 9732 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 14:54:42.269 9732 9732 I BtGovernor : isAvailable enter
+06-22 14:54:42.272 9732 9732 D BtGovernor : BleApi stopbackGroundScan
+06-22 14:55:11.343 9732 9732 D DiscoveryManager : start
+06-22 14:55:11.343 9732 9732 I BtGovernor : isAvailable enter
+06-22 14:55:11.346 9732 9732 D BtGovernor : BleApi startBackGroundScan
+06-22 14:55:11.346 9732 9732 D BleBackGround : startBindbackGoundService
+06-22 14:55:11.358 9732 9732 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 14:55:11.420 9732 9732 E BleBackGround : MiConnect bind MiNearby background success
+06-22 14:55:11.426 9732 9732 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 15:22:36.179 19978 19978 I LogUtil : LogUtils init, A new application started
+06-22 15:22:36.202 19978 19978 D PermissionManager : mIsSelfDebugSignature = false
+06-22 15:22:36.207 19978 19978 I PermissionManager : load permission file
+06-22 15:22:36.211 19978 19978 I PermissionManager : failed to check uid for com.miui.mishare.connectivity -1
+06-22 15:22:36.215 19978 19978 I PermissionManager : failed to check uid for com.miui.huanji -1
+06-22 15:22:36.218 19978 19978 I PermissionManager : failed to check uid for com.iot.xiaomi.miconnecttest -1
+06-22 15:22:36.219 19978 19978 I PermissionManager : failed to check uid for com.xiaomi.idm_autotest_android -1
+06-22 15:22:36.220 19978 19978 I PermissionManager : failed to check uid for com.miui.video -1
+06-22 15:22:36.220 19978 19978 I PermissionManager : failed to check uid for com.xiaomi.mitime -1
+06-22 15:22:36.224 19978 19978 I PermissionManager : failed to check uid for com.xiaomi.wearable -1
+06-22 15:22:36.225 19978 19978 I PermissionManager : perm loaded v: 7
+06-22 15:22:36.225 19978 19978 D ConfigMgr : config file: /data/user/0/com.xiaomi.mi_connect_service/files/config/config.json
+06-22 15:22:36.226 19978 19978 D DeviceUtil : platform type property: nosdcard
+06-22 15:22:36.227 19978 19978 D RegionUtil : ID
+06-22 15:22:36.286 19978 20005 I CloudCtrFileJob : work
+06-22 15:22:36.289 19978 19978 D PropertyUtils : is agreed: false
+06-22 15:22:36.298 19978 19978 D DeviceUtil : platform type property: nosdcard
+06-22 15:22:36.298 19978 19978 E Constant : is international: true
+06-22 15:22:36.298 19978 19978 E g:miconnect:  : not available
+06-22 15:22:36.298 19978 19978 E stat: MiotReportManager : -----init------: not available
+06-22 15:22:36.302 19978 19978 I MiConnectService : onCreate versionName:1.3.326 userId:0
+06-22 15:22:36.320 19978 19978 D PropertyUtils : is agreed: false
+06-22 15:22:36.321 19978 19978 E g:miconnect:  : not available
+06-22 15:22:36.321 19978 19978 D DeviceUtil : platform type property: nosdcard
+06-22 15:22:36.322 19978 19978 D BonjourGovernor : BonjourGovernor ver: 9.8.09.01
+06-22 15:22:36.329 19978 20007 D TimerStack : load all start
+06-22 15:22:36.370 19978 19978 D BonjourGovernor : DTLS Disabled
+06-22 15:22:36.408 19978 20007 D TimerStack : load all 78
+06-22 15:22:36.614 19978 19978 D BonjourGovernor : Start coapserver success, retry:0
+06-22 15:22:36.619 19978 19978 D MiConnectService : SYSTEM userId else: 0,APP USERID1000
+06-22 15:22:36.620 19978 19978 D BtGovernor : BleApi getBleGovernor
+06-22 15:22:36.620 19978 19978 D BtGovernor : BleApi BtGovernor Constructor, dev.1.2.0
+06-22 15:22:36.620 19978 19978 D DeviceUtil : platform type property: nosdcard
+06-22 15:22:36.621 19978 19978 D DeviceUtil : platform type property: nosdcard
+06-22 15:22:36.653 19978 19978 I BleClientService :  BleAttributeClientOperation Consturctor, dev.1.2.0
+06-22 15:22:36.653 19978 19978 I Discovery :  BleDiscovery Consturctor, dev.1.2.0
+06-22 15:22:36.653 19978 19978 D Discovery : scan mode=2
+06-22 15:22:36.657 19978 19978 I BleServerService :  BleAttributeServerOperation Consturctor, dev.1.2.0
+06-22 15:22:36.657 19978 19978 I BleAdvertising :  BleAdvertising Consturctor, dev.1.2.0
+06-22 15:22:36.666 19978 19978 I BleClientViaAttService :  BleClientService Consturctor, dev.1.2.0
+06-22 15:22:36.667 19978 19978 I BleServerViaAttService :  BleServerService Consturctor, dev.1.2.0
+06-22 15:22:36.667 19978 19978 E BtGovernor : Log enabled =false
+06-22 15:22:36.667 19978 19978 D BtGovernor : BleApi setCallback
+06-22 15:22:36.667 19978 19978 D BleBackGround : setCallback is set
+06-22 15:22:36.667 19978 19978 D BtGovernor : BleApi enableStateListener
+06-22 15:22:36.667 19978 19978 I BtGovernor : isAvailable enter
+06-22 15:22:36.670 19978 19978 D BtGovernor : BleApi init enter,dev.1.2.0
+06-22 15:22:36.674 19978 19978 D BleClientService : init enter, mIsInitiated=false
+06-22 15:22:36.674 19978 19978 D Discovery : init enter, mIsInitiated=false
+06-22 15:22:36.677 19978 19978 D BleServerService : init enter, mIsInitiated=false
+06-22 15:22:36.677 19978 19978 D BleServerService : Info: gattOperationValid is false
+06-22 15:22:36.677 19978 19978 D BleAdvertising : init enter, mIsInitiated=false
+06-22 15:22:36.678 19978 19978 D BtGovernor : BleApi setupRfcomm enter
+06-22 15:22:36.682 19978 19978 D BluetoothRfcommService : start
+06-22 15:22:36.763 19978 19978 D BleClientViaAttService : init enter, mIsInitiated=false
+06-22 15:22:36.763 19978 19978 D BleServerViaAttService : init enter, mIsInitiated=false
+06-22 15:22:36.764 19978 19978 D BleServerViaAttService : Info: gattOperationValid is false
+06-22 15:22:36.764 19978 19978 D BleBackGround : startBindBackGoundService
+06-22 15:22:36.764 19978 19978 D DeviceUtil : platform type property: nosdcard
+06-22 15:22:36.764 19978 19978 D BleBackGround : startBindbackGoundService
+06-22 15:22:36.772 19978 19978 D WifiGovernor : Wifi Governor Constructor
+06-22 15:22:36.778 19978 20027 D BluetoothRfcommService : Socket Type: Insecure BEGIN mAcceptThread Thread[Thread-2,5,main]
+06-22 15:22:36.778 19978 20027 D BluetoothRfcommService : mState : 1
+06-22 15:22:36.787 19978 19978 D WifiGovernor : DTLS Disabled
+06-22 15:22:36.788 19978 19978 E WifiGovernor : isAvailable() : true
+06-22 15:22:36.788 19978 19978 D WifiGovernor : Init enter
+06-22 15:22:36.793 19978 19978 D WifiGovernor : Start coap server success, retry:0
+06-22 15:22:36.793 19978 19978 D DeviceUtil : platform type property: nosdcard
+06-22 15:22:36.797 19978 19978 I NfcAdvPresenter : registerReceiver
+06-22 15:22:36.797 19978 19978 D DeviceUtil : platform type property: nosdcard
+06-22 15:22:36.797 19978 19978 D DeviceUtil : platform type property: nosdcard
+06-22 15:22:36.797 19978 19978 I NfcScanHelper : ---start---state:IDEL
+06-22 15:22:36.799 19978 19978 I NfcMessagePublisher : use NfcScanHelper
+06-22 15:22:36.799 19978 19978 D DeviceUtil : platform type property: nosdcard
+06-22 15:22:36.801 19978 19978 D DeviceUtil : platform type property: nosdcard
+06-22 15:22:36.802 19978 19978 I NfcGovernor : isAvailable false
+06-22 15:22:36.802 19978 19978 D MiConnectService : NFC available false
+06-22 15:22:36.802 19978 19978 D DeviceUtil : platform type property: nosdcard
+06-22 15:22:36.802 19978 19978 I NfcGovernor : isAvailable false
+06-22 15:22:36.802 19978 19978 D BtGovernor : BleApi setAdvertisingCallback enter
+06-22 15:22:36.802 19978 19978 D BtGovernor : BleApi setDiscoveryCallback enter
+06-22 15:22:36.802 19978 19978 D Discovery : setCallback enter
+06-22 15:22:36.803 19978 19978 D BleBackGround : setBackGroundDiscoveryCallback enter
+06-22 15:22:36.816 19978 19978 D BtGovernor : BleApi setAttributeCallback enter
+06-22 15:22:36.892 19978 19978 D MiIdentity : load local
+06-22 15:22:36.892 19978 19978 D MiConnectService : ScreenStateObserver.EnableObserve main
+06-22 15:22:36.895 19978 19978 D MiConnectService : UserSwitchedObserver.EnableObserve main
+06-22 15:22:36.910 19978 19978 D MiConnectService : Register name change observer for phone
+06-22 15:22:36.910 19978 19978 D MiConnectService : PhoneSystemNameChangeObserver.EnableObserve main
+06-22 15:22:37.006 19978 19978 D IDMNative : init
+06-22 15:22:37.010 19978 19978 D IDMNative : registerIotService, uuid:ffff3ffc-09da-4bed-9652-f507366fcfc5
+06-22 15:22:37.019 19978 19978 D DeviceUtil : platform type property: nosdcard
+06-22 15:22:37.023 19978 19978 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 15:22:37.039 19978 19978 E BleBackGround : MiConnect bind MiNearby background success
+06-22 15:22:37.048 19978 19978 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 15:22:37.055 19978 19978 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 15:22:37.055 19978 19978 D CommStateMonitor : onReceive: android.net.wifi.WIFI_STATE_CHANGED
+06-22 15:22:37.055 19978 19978 D CommStateMonitor : onReceive: android.net.wifi.STATE_CHANGE
+06-22 15:22:37.056 19978 19978 D CommStateMonitor : isConnected: false
+06-22 15:22:37.507 19978 20005 I CloudCtrFileJob : done
+06-22 15:22:37.507 19978 20005 D CloudCtrBaseJob : work
+06-22 15:22:38.422 19978 20005 D CloudCtrBaseJob : done
+06-22 15:50:53.510 19978 19978 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 15:50:55.265 19978 19978 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 15:58:26.071 19978 19978 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 15:58:26.186 19978 19978 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:00:04.329 31047 31047 I LogUtil : LogUtils init, A new application started
+06-22 16:00:04.347 31047 31047 D PermissionManager : mIsSelfDebugSignature = false
+06-22 16:00:04.353 31047 31047 I PermissionManager : load permission file
+06-22 16:00:04.357 31047 31047 I PermissionManager : failed to check uid for com.miui.mishare.connectivity -1
+06-22 16:00:04.359 31047 31047 I PermissionManager : failed to check uid for com.miui.huanji -1
+06-22 16:00:04.361 31047 31047 I PermissionManager : failed to check uid for com.iot.xiaomi.miconnecttest -1
+06-22 16:00:04.362 31047 31047 I PermissionManager : failed to check uid for com.xiaomi.idm_autotest_android -1
+06-22 16:00:04.363 31047 31047 I PermissionManager : failed to check uid for com.miui.video -1
+06-22 16:00:04.364 31047 31047 I PermissionManager : failed to check uid for com.xiaomi.mitime -1
+06-22 16:00:04.366 31047 31047 I PermissionManager : failed to check uid for com.xiaomi.wearable -1
+06-22 16:00:04.366 31047 31047 I PermissionManager : perm loaded v: 7
+06-22 16:00:04.366 31047 31047 D ConfigMgr : config file: /data/user/0/com.xiaomi.mi_connect_service/files/config/config.json
+06-22 16:00:04.368 31047 31047 D DeviceUtil : platform type property: nosdcard
+06-22 16:00:04.368 31047 31047 D RegionUtil : ID
+06-22 16:00:04.412 31047 31089 I CloudCtrFileJob : work
+06-22 16:00:04.419 31047 31047 D PropertyUtils : is agreed: false
+06-22 16:00:04.425 31047 31047 D DeviceUtil : platform type property: nosdcard
+06-22 16:00:04.425 31047 31047 E Constant : is international: true
+06-22 16:00:04.425 31047 31047 E g:miconnect:  : not available
+06-22 16:00:04.425 31047 31047 E stat: MiotReportManager : -----init------: not available
+06-22 16:00:04.430 31047 31047 I MiConnectService : onCreate versionName:1.3.326 userId:0
+06-22 16:00:04.454 31047 31047 D PropertyUtils : is agreed: false
+06-22 16:00:04.456 31047 31047 E g:miconnect:  : not available
+06-22 16:00:04.456 31047 31047 D DeviceUtil : platform type property: nosdcard
+06-22 16:00:04.458 31047 31047 D BonjourGovernor : BonjourGovernor ver: 9.8.09.01
+06-22 16:00:04.466 31047 31091 D TimerStack : load all start
+06-22 16:00:04.476 31047 31047 D BonjourGovernor : DTLS Disabled
+06-22 16:00:04.508 31047 31091 D TimerStack : load all 42
+06-22 16:00:04.709 31047 31047 D BonjourGovernor : Start coapserver success, retry:0
+06-22 16:00:04.751 31047 31047 D MiConnectService : SYSTEM userId else: 0,APP USERID1000
+06-22 16:00:04.751 31047 31047 D BtGovernor : BleApi getBleGovernor
+06-22 16:00:04.751 31047 31047 D BtGovernor : BleApi BtGovernor Constructor, dev.1.2.0
+06-22 16:00:04.752 31047 31047 D DeviceUtil : platform type property: nosdcard
+06-22 16:00:04.752 31047 31047 D DeviceUtil : platform type property: nosdcard
+06-22 16:00:04.769 31047 31047 I BleClientService :  BleAttributeClientOperation Consturctor, dev.1.2.0
+06-22 16:00:04.770 31047 31047 I Discovery :  BleDiscovery Consturctor, dev.1.2.0
+06-22 16:00:04.770 31047 31047 D Discovery : scan mode=2
+06-22 16:00:04.772 31047 31047 I BleServerService :  BleAttributeServerOperation Consturctor, dev.1.2.0
+06-22 16:00:04.772 31047 31047 I BleAdvertising :  BleAdvertising Consturctor, dev.1.2.0
+06-22 16:00:04.777 31047 31047 I BleClientViaAttService :  BleClientService Consturctor, dev.1.2.0
+06-22 16:00:04.777 31047 31047 I BleServerViaAttService :  BleServerService Consturctor, dev.1.2.0
+06-22 16:00:04.777 31047 31047 E BtGovernor : Log enabled =false
+06-22 16:00:04.777 31047 31047 D BtGovernor : BleApi setCallback
+06-22 16:00:04.777 31047 31047 D BleBackGround : setCallback is set
+06-22 16:00:04.777 31047 31047 D BtGovernor : BleApi enableStateListener
+06-22 16:00:04.777 31047 31047 I BtGovernor : isAvailable enter
+06-22 16:00:04.779 31047 31047 D BtGovernor : BleApi init enter,dev.1.2.0
+06-22 16:00:04.782 31047 31047 D BleClientService : init enter, mIsInitiated=false
+06-22 16:00:04.782 31047 31047 D Discovery : init enter, mIsInitiated=false
+06-22 16:00:04.784 31047 31047 D BleServerService : init enter, mIsInitiated=false
+06-22 16:00:04.784 31047 31047 D BleServerService : Info: gattOperationValid is false
+06-22 16:00:04.784 31047 31047 D BleAdvertising : init enter, mIsInitiated=false
+06-22 16:00:04.787 31047 31047 D BtGovernor : BleApi setupRfcomm enter
+06-22 16:00:04.790 31047 31047 D BluetoothRfcommService : start
+06-22 16:00:04.816 31047 31047 D BleClientViaAttService : init enter, mIsInitiated=false
+06-22 16:00:04.816 31047 31047 D BleServerViaAttService : init enter, mIsInitiated=false
+06-22 16:00:04.816 31047 31047 D BleServerViaAttService : Info: gattOperationValid is false
+06-22 16:00:04.817 31047 31047 D BleBackGround : startBindBackGoundService
+06-22 16:00:04.817 31047 31047 D DeviceUtil : platform type property: nosdcard
+06-22 16:00:04.817 31047 31047 D BleBackGround : startBindbackGoundService
+06-22 16:00:04.824 31047 31047 D WifiGovernor : Wifi Governor Constructor
+06-22 16:00:04.829 31047 31115 D BluetoothRfcommService : Socket Type: Insecure BEGIN mAcceptThread Thread[Thread-2,5,main]
+06-22 16:00:04.829 31047 31115 D BluetoothRfcommService : mState : 1
+06-22 16:00:04.835 31047 31089 I CloudCtrFileJob : done
+06-22 16:00:04.835 31047 31089 D CloudCtrBaseJob : work
+06-22 16:00:04.852 31047 31047 D WifiGovernor : DTLS Disabled
+06-22 16:00:04.852 31047 31047 E WifiGovernor : isAvailable() : true
+06-22 16:00:04.853 31047 31047 D WifiGovernor : Init enter
+06-22 16:00:04.857 31047 31047 D WifiGovernor : Start coap server success, retry:0
+06-22 16:00:04.857 31047 31047 D DeviceUtil : platform type property: nosdcard
+06-22 16:00:04.861 31047 31047 I NfcAdvPresenter : registerReceiver
+06-22 16:00:04.861 31047 31047 D DeviceUtil : platform type property: nosdcard
+06-22 16:00:04.861 31047 31047 D DeviceUtil : platform type property: nosdcard
+06-22 16:00:04.862 31047 31047 I NfcScanHelper : ---start---state:IDEL
+06-22 16:00:04.875 31047 31047 I NfcMessagePublisher : use NfcScanHelper
+06-22 16:00:04.875 31047 31047 D DeviceUtil : platform type property: nosdcard
+06-22 16:00:04.882 31047 31047 D DeviceUtil : platform type property: nosdcard
+06-22 16:00:04.883 31047 31047 I NfcGovernor : isAvailable false
+06-22 16:00:04.883 31047 31047 D MiConnectService : NFC available false
+06-22 16:00:04.883 31047 31047 D DeviceUtil : platform type property: nosdcard
+06-22 16:00:04.886 31047 31047 I NfcGovernor : isAvailable false
+06-22 16:00:04.886 31047 31047 D BtGovernor : BleApi setAdvertisingCallback enter
+06-22 16:00:04.887 31047 31047 D BtGovernor : BleApi setDiscoveryCallback enter
+06-22 16:00:04.887 31047 31047 D Discovery : setCallback enter
+06-22 16:00:04.887 31047 31047 D BleBackGround : setBackGroundDiscoveryCallback enter
+06-22 16:00:04.905 31047 31047 D BtGovernor : BleApi setAttributeCallback enter
+06-22 16:00:05.036 31047 31047 D MiIdentity : load local
+06-22 16:00:05.037 31047 31047 D MiConnectService : ScreenStateObserver.EnableObserve main
+06-22 16:00:05.039 31047 31047 D MiConnectService : UserSwitchedObserver.EnableObserve main
+06-22 16:00:05.065 31047 31089 D CloudCtrBaseJob : done
+06-22 16:00:05.072 31047 31047 D MiConnectService : Register name change observer for phone
+06-22 16:00:05.072 31047 31047 D MiConnectService : PhoneSystemNameChangeObserver.EnableObserve main
+06-22 16:00:05.251 31047 31047 D IDMNative : init
+06-22 16:00:05.286 31047 31047 D IDMNative : registerIotService, uuid:ffff3ffc-09da-4bed-9652-f507366fcfc5
+06-22 16:00:05.294 31047 31047 D DeviceUtil : platform type property: nosdcard
+06-22 16:00:05.312 31047 31047 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 16:00:05.332 31047 31047 E BleBackGround : MiConnect bind MiNearby background success
+06-22 16:00:05.338 31047 31047 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 16:00:05.345 31047 31047 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:00:05.348 31047 31047 D CommStateMonitor : onReceive: android.net.wifi.WIFI_STATE_CHANGED
+06-22 16:00:05.349 31047 31047 D CommStateMonitor : onReceive: android.net.wifi.STATE_CHANGE
+06-22 16:00:05.350 31047 31047 D CommStateMonitor : isConnected: false
+06-22 16:00:11.313 31047 31047 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:00:34.013 31047 31047 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:05:55.781 31047 31047 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:05:58.597 31047 31047 I BtGovernor : isAvailable enter
+06-22 16:05:58.600 31047 31047 D BtGovernor : BleApi stopbackGroundScan
+06-22 16:06:09.625 31047 31047 D DiscoveryManager : start
+06-22 16:06:09.625 31047 31047 I BtGovernor : isAvailable enter
+06-22 16:06:09.629 31047 31047 D BtGovernor : BleApi startBackGroundScan
+06-22 16:06:09.629 31047 31047 D BleBackGround : startBindbackGoundService
+06-22 16:06:09.641 31047 31047 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 16:06:09.735 31047 31047 E BleBackGround : MiConnect bind MiNearby background success
+06-22 16:06:09.742 31047 31047 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 16:08:14.380 31047 31047 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:20:19.275 31047 31047 I BtGovernor : isAvailable enter
+06-22 16:20:19.276 31047 31047 D BtGovernor : BleApi stopbackGroundScan
+06-22 16:21:34.076 31047 31047 D DiscoveryManager : start
+06-22 16:21:34.077 31047 31047 I BtGovernor : isAvailable enter
+06-22 16:21:34.078 31047 31047 D BtGovernor : BleApi startBackGroundScan
+06-22 16:21:34.078 31047 31047 D BleBackGround : startBindbackGoundService
+06-22 16:21:34.092 31047 31047 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 16:21:34.136 31047 31047 E BleBackGround : MiConnect bind MiNearby background success
+06-22 16:21:34.151 31047 31047 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 16:21:46.289 31047 31047 I BtGovernor : isAvailable enter
+06-22 16:21:46.292 31047 31047 D BtGovernor : BleApi stopbackGroundScan
+06-22 16:22:27.554 31047 31047 D DiscoveryManager : start
+06-22 16:22:27.554 31047 31047 I BtGovernor : isAvailable enter
+06-22 16:22:27.558 31047 31047 D BtGovernor : BleApi startBackGroundScan
+06-22 16:22:27.558 31047 31047 D BleBackGround : startBindbackGoundService
+06-22 16:22:27.572 31047 31047 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 16:22:27.579 31047 31047 E BleBackGround : MiConnect bind MiNearby background success
+06-22 16:22:27.598 31047 31047 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 16:24:19.017 31047 31047 I BtGovernor : isAvailable enter
+06-22 16:24:19.019 31047 31047 D BtGovernor : BleApi stopbackGroundScan
+06-22 16:25:12.933 31047 31047 D DiscoveryManager : start
+06-22 16:25:12.933 31047 31047 I BtGovernor : isAvailable enter
+06-22 16:25:12.937 31047 31047 D BtGovernor : BleApi startBackGroundScan
+06-22 16:25:12.937 31047 31047 D BleBackGround : startBindbackGoundService
+06-22 16:25:12.944 31047 31047 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 16:25:12.956 31047 31047 E BleBackGround : MiConnect bind MiNearby background success
+06-22 16:25:12.958 31047 31047 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 16:25:25.016 31047 31047 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:25:26.616 31047 31047 I BtGovernor : isAvailable enter
+06-22 16:25:26.619 31047 31047 D BtGovernor : BleApi stopbackGroundScan
+06-22 16:29:37.791 31047 31047 D DiscoveryManager : start
+06-22 16:29:37.791 31047 31047 I BtGovernor : isAvailable enter
+06-22 16:29:37.798 31047 31047 D BtGovernor : BleApi startBackGroundScan
+06-22 16:29:37.798 31047 31047 D BleBackGround : startBindbackGoundService
+06-22 16:29:37.806 31047 31047 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 16:29:37.824 31047 31047 E BleBackGround : MiConnect bind MiNearby background success
+06-22 16:29:37.827 31047 31047 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 16:29:41.780 31047 31047 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:30:05.027 31047 31047 I BtGovernor : isAvailable enter
+06-22 16:30:05.031 31047 31047 D BtGovernor : BleApi stopbackGroundScan
+06-22 16:30:19.233 31047 31047 D DiscoveryManager : start
+06-22 16:30:19.233 31047 31047 I BtGovernor : isAvailable enter
+06-22 16:30:19.237 31047 31047 D BtGovernor : BleApi startBackGroundScan
+06-22 16:30:19.238 31047 31047 D BleBackGround : startBindbackGoundService
+06-22 16:30:19.242 31047 31047 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 16:30:19.248 31047 31047 E BleBackGround : MiConnect bind MiNearby background success
+06-22 16:30:19.253 31047 31047 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 16:36:32.448 17255 17255 I LogUtil : LogUtils init, A new application started
+06-22 16:36:32.470 17255 17255 D PermissionManager : mIsSelfDebugSignature = false
+06-22 16:36:32.479 17255 17255 I PermissionManager : load permission file
+06-22 16:36:32.481 17255 17255 I PermissionManager : failed to check uid for com.miui.mishare.connectivity -1
+06-22 16:36:32.483 17255 17255 I PermissionManager : failed to check uid for com.miui.huanji -1
+06-22 16:36:32.484 17255 17255 I PermissionManager : failed to check uid for com.iot.xiaomi.miconnecttest -1
+06-22 16:36:32.488 17255 17255 I PermissionManager : failed to check uid for com.xiaomi.idm_autotest_android -1
+06-22 16:36:32.489 17255 17255 I PermissionManager : failed to check uid for com.miui.video -1
+06-22 16:36:32.489 17255 17255 I PermissionManager : failed to check uid for com.xiaomi.mitime -1
+06-22 16:36:32.491 17255 17255 I PermissionManager : failed to check uid for com.xiaomi.wearable -1
+06-22 16:36:32.491 17255 17255 I PermissionManager : perm loaded v: 7
+06-22 16:36:32.491 17255 17255 D ConfigMgr : config file: /data/user/0/com.xiaomi.mi_connect_service/files/config/config.json
+06-22 16:36:32.494 17255 17255 D DeviceUtil : platform type property: nosdcard
+06-22 16:36:32.494 17255 17255 D RegionUtil : ID
+06-22 16:36:32.548 17255 17281 I CloudCtrFileJob : work
+06-22 16:36:32.564 17255 17255 D PropertyUtils : is agreed: false
+06-22 16:36:32.571 17255 17255 D DeviceUtil : platform type property: nosdcard
+06-22 16:36:32.571 17255 17255 E Constant : is international: true
+06-22 16:36:32.571 17255 17255 E g:miconnect:  : not available
+06-22 16:36:32.571 17255 17255 E stat: MiotReportManager : -----init------: not available
+06-22 16:36:32.576 17255 17255 I MiConnectService : onCreate versionName:1.3.326 userId:0
+06-22 16:36:32.587 17255 17255 D PropertyUtils : is agreed: false
+06-22 16:36:32.591 17255 17255 E g:miconnect:  : not available
+06-22 16:36:32.591 17255 17255 D DeviceUtil : platform type property: nosdcard
+06-22 16:36:32.594 17255 17255 D BonjourGovernor : BonjourGovernor ver: 9.8.09.01
+06-22 16:36:32.601 17255 17284 D TimerStack : load all start
+06-22 16:36:32.612 17255 17255 D BonjourGovernor : DTLS Disabled
+06-22 16:36:32.661 17255 17284 D TimerStack : load all 60
+06-22 16:36:32.857 17255 17255 D BonjourGovernor : Start coapserver success, retry:0
+06-22 16:36:32.886 17255 17255 D MiConnectService : SYSTEM userId else: 0,APP USERID1000
+06-22 16:36:32.887 17255 17255 D BtGovernor : BleApi getBleGovernor
+06-22 16:36:32.887 17255 17255 D BtGovernor : BleApi BtGovernor Constructor, dev.1.2.0
+06-22 16:36:32.887 17255 17255 D DeviceUtil : platform type property: nosdcard
+06-22 16:36:32.888 17255 17255 D DeviceUtil : platform type property: nosdcard
+06-22 16:36:32.924 17255 17255 I BleClientService :  BleAttributeClientOperation Consturctor, dev.1.2.0
+06-22 16:36:32.924 17255 17255 I Discovery :  BleDiscovery Consturctor, dev.1.2.0
+06-22 16:36:32.925 17255 17255 D Discovery : scan mode=2
+06-22 16:36:32.927 17255 17255 I BleServerService :  BleAttributeServerOperation Consturctor, dev.1.2.0
+06-22 16:36:32.928 17255 17255 I BleAdvertising :  BleAdvertising Consturctor, dev.1.2.0
+06-22 16:36:32.942 17255 17255 I BleClientViaAttService :  BleClientService Consturctor, dev.1.2.0
+06-22 16:36:32.943 17255 17255 I BleServerViaAttService :  BleServerService Consturctor, dev.1.2.0
+06-22 16:36:32.943 17255 17255 E BtGovernor : Log enabled =false
+06-22 16:36:32.943 17255 17255 D BtGovernor : BleApi setCallback
+06-22 16:36:32.943 17255 17255 D BleBackGround : setCallback is set
+06-22 16:36:32.943 17255 17255 D BtGovernor : BleApi enableStateListener
+06-22 16:36:32.944 17255 17255 I BtGovernor : isAvailable enter
+06-22 16:36:32.948 17255 17255 D BtGovernor : BleApi init enter,dev.1.2.0
+06-22 16:36:32.952 17255 17255 D BleClientService : init enter, mIsInitiated=false
+06-22 16:36:32.952 17255 17255 D Discovery : init enter, mIsInitiated=false
+06-22 16:36:32.955 17255 17255 D BleServerService : init enter, mIsInitiated=false
+06-22 16:36:32.955 17255 17255 D BleServerService : Info: gattOperationValid is false
+06-22 16:36:32.955 17255 17255 D BleAdvertising : init enter, mIsInitiated=false
+06-22 16:36:32.956 17255 17255 D BtGovernor : BleApi setupRfcomm enter
+06-22 16:36:32.962 17255 17255 D BluetoothRfcommService : start
+06-22 16:36:33.018 17255 17255 D BleClientViaAttService : init enter, mIsInitiated=false
+06-22 16:36:33.018 17255 17255 D BleServerViaAttService : init enter, mIsInitiated=false
+06-22 16:36:33.018 17255 17255 D BleServerViaAttService : Info: gattOperationValid is false
+06-22 16:36:33.018 17255 17255 D BleBackGround : startBindBackGoundService
+06-22 16:36:33.019 17255 17255 D DeviceUtil : platform type property: nosdcard
+06-22 16:36:33.019 17255 17255 D BleBackGround : startBindbackGoundService
+06-22 16:36:33.027 17255 17255 D WifiGovernor : Wifi Governor Constructor
+06-22 16:36:33.034 17255 17304 D BluetoothRfcommService : Socket Type: Insecure BEGIN mAcceptThread Thread[Thread-2,5,main]
+06-22 16:36:33.034 17255 17304 D BluetoothRfcommService : mState : 1
+06-22 16:36:33.047 17255 17255 D WifiGovernor : DTLS Disabled
+06-22 16:36:33.048 17255 17255 E WifiGovernor : isAvailable() : true
+06-22 16:36:33.048 17255 17255 D WifiGovernor : Init enter
+06-22 16:36:33.053 17255 17255 D WifiGovernor : Start coap server success, retry:0
+06-22 16:36:33.054 17255 17255 D DeviceUtil : platform type property: nosdcard
+06-22 16:36:33.061 17255 17255 I NfcAdvPresenter : registerReceiver
+06-22 16:36:33.061 17255 17255 D DeviceUtil : platform type property: nosdcard
+06-22 16:36:33.061 17255 17255 D DeviceUtil : platform type property: nosdcard
+06-22 16:36:33.062 17255 17255 I NfcScanHelper : ---start---state:IDEL
+06-22 16:36:33.067 17255 17255 I NfcMessagePublisher : use NfcScanHelper
+06-22 16:36:33.068 17255 17255 D DeviceUtil : platform type property: nosdcard
+06-22 16:36:33.078 17255 17255 D DeviceUtil : platform type property: nosdcard
+06-22 16:36:33.078 17255 17255 I NfcGovernor : isAvailable false
+06-22 16:36:33.078 17255 17255 D MiConnectService : NFC available false
+06-22 16:36:33.079 17255 17255 D DeviceUtil : platform type property: nosdcard
+06-22 16:36:33.079 17255 17255 I NfcGovernor : isAvailable false
+06-22 16:36:33.079 17255 17255 D BtGovernor : BleApi setAdvertisingCallback enter
+06-22 16:36:33.079 17255 17255 D BtGovernor : BleApi setDiscoveryCallback enter
+06-22 16:36:33.080 17255 17255 D Discovery : setCallback enter
+06-22 16:36:33.080 17255 17255 D BleBackGround : setBackGroundDiscoveryCallback enter
+06-22 16:36:33.094 17255 17255 D BtGovernor : BleApi setAttributeCallback enter
+06-22 16:36:33.208 17255 17281 I CloudCtrFileJob : done
+06-22 16:36:33.208 17255 17281 D CloudCtrBaseJob : work
+06-22 16:36:33.232 17255 17255 D MiIdentity : load local
+06-22 16:36:33.232 17255 17255 D MiConnectService : ScreenStateObserver.EnableObserve main
+06-22 16:36:33.235 17255 17255 D MiConnectService : UserSwitchedObserver.EnableObserve main
+06-22 16:36:33.253 17255 17255 D MiConnectService : Register name change observer for phone
+06-22 16:36:33.253 17255 17255 D MiConnectService : PhoneSystemNameChangeObserver.EnableObserve main
+06-22 16:36:33.405 17255 17281 D CloudCtrBaseJob : done
+06-22 16:36:33.427 17255 17255 D IDMNative : init
+06-22 16:36:33.436 17255 17255 D IDMNative : registerIotService, uuid:ffff3ffc-09da-4bed-9652-f507366fcfc5
+06-22 16:36:33.446 17255 17255 D DeviceUtil : platform type property: nosdcard
+06-22 16:36:33.449 17255 17255 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 16:36:33.480 17255 17255 E BleBackGround : MiConnect bind MiNearby background success
+06-22 16:36:33.486 17255 17255 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 16:36:33.490 17255 17255 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:36:33.490 17255 17255 D CommStateMonitor : onReceive: android.net.wifi.WIFI_STATE_CHANGED
+06-22 16:36:33.490 17255 17255 D CommStateMonitor : onReceive: android.net.wifi.STATE_CHANGE
+06-22 16:36:33.490 17255 17255 D CommStateMonitor : isConnected: false
+06-22 16:45:01.021 17255 17255 I BtGovernor : isAvailable enter
+06-22 16:45:01.023 17255 17255 D BtGovernor : BleApi stopbackGroundScan
+06-22 16:45:01.535 17255 17255 D DiscoveryManager : start
+06-22 16:45:01.535 17255 17255 I BtGovernor : isAvailable enter
+06-22 16:45:01.537 17255 17255 D BtGovernor : BleApi startBackGroundScan
+06-22 16:45:01.537 17255 17255 D BleBackGround : startBindbackGoundService
+06-22 16:45:01.548 17255 17255 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 16:45:01.598 17255 17255 E BleBackGround : MiConnect bind MiNearby background success
+06-22 16:45:01.607 17255 17255 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 16:45:18.998 17255 17255 I BtGovernor : isAvailable enter
+06-22 16:45:19.000 17255 17255 D BtGovernor : BleApi stopbackGroundScan
+06-22 16:45:19.287 17255 17255 D DiscoveryManager : start
+06-22 16:45:19.287 17255 17255 I BtGovernor : isAvailable enter
+06-22 16:45:19.289 17255 17255 D BtGovernor : BleApi startBackGroundScan
+06-22 16:45:19.289 17255 17255 D BleBackGround : startBindbackGoundService
+06-22 16:45:19.295 17255 17255 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 16:45:19.317 17255 17255 E BleBackGround : MiConnect bind MiNearby background success
+06-22 16:45:19.322 17255 17255 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 16:50:25.171 17255 17255 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:52:03.967 17255 17255 I BtGovernor : isAvailable enter
+06-22 16:52:03.971 17255 17255 D BtGovernor : BleApi stopbackGroundScan
+06-22 16:54:13.954 17255 17255 D DiscoveryManager : start
+06-22 16:54:13.954 17255 17255 I BtGovernor : isAvailable enter
+06-22 16:54:13.956 17255 17255 D BtGovernor : BleApi startBackGroundScan
+06-22 16:54:13.956 17255 17255 D BleBackGround : startBindbackGoundService
+06-22 16:54:13.972 17255 17255 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 16:54:14.009 17255 17255 E BleBackGround : MiConnect bind MiNearby background success
+06-22 16:54:14.013 17255 17255 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 16:54:23.310 17255 17255 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:54:50.618 17255 17255 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:54:53.698 17255 17255 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:55:23.108 17255 17255 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:55:25.048 17255 17255 I BtGovernor : isAvailable enter
+06-22 16:55:25.059 17255 17255 D BtGovernor : BleApi stopbackGroundScan
+06-22 16:55:45.897 17255 17255 D DiscoveryManager : start
+06-22 16:55:45.897 17255 17255 I BtGovernor : isAvailable enter
+06-22 16:55:45.900 17255 17255 D BtGovernor : BleApi startBackGroundScan
+06-22 16:55:45.900 17255 17255 D BleBackGround : startBindbackGoundService
+06-22 16:55:45.918 17255 17255 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 16:55:45.981 17255 17255 E BleBackGround : MiConnect bind MiNearby background success
+06-22 16:55:45.987 17255 17255 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 16:55:57.587 17255 17255 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 17:03:53.632 17255 17255 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 17:03:57.115 17255 17255 I BtGovernor : isAvailable enter
+06-22 17:03:57.117 17255 17255 D BtGovernor : BleApi stopbackGroundScan
+06-22 17:04:25.758 17255 17255 D DiscoveryManager : start
+06-22 17:04:25.758 17255 17255 I BtGovernor : isAvailable enter
+06-22 17:04:25.764 17255 17255 D BtGovernor : BleApi startBackGroundScan
+06-22 17:04:25.764 17255 17255 D BleBackGround : startBindbackGoundService
+06-22 17:04:25.794 17255 17255 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 17:04:25.843 17255 17255 E BleBackGround : MiConnect bind MiNearby background success
+06-22 17:04:25.848 17255 17255 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 17:04:33.301 17255 17255 I BtGovernor : isAvailable enter
+06-22 17:04:33.303 17255 17255 D BtGovernor : BleApi stopbackGroundScan
+06-22 17:04:48.909 17255 17255 D DiscoveryManager : start
+06-22 17:04:48.910 17255 17255 I BtGovernor : isAvailable enter
+06-22 17:04:48.910 17255 17255 D BtGovernor : BleApi startBackGroundScan
+06-22 17:04:48.910 17255 17255 D BleBackGround : startBindbackGoundService
+06-22 17:04:48.914 17255 17255 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 17:04:48.929 17255 17255 E BleBackGround : MiConnect bind MiNearby background success
+06-22 17:04:48.934 17255 17255 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 17:04:50.254 17255 17255 I BtGovernor : isAvailable enter
+06-22 17:04:50.256 17255 17255 D BtGovernor : BleApi stopbackGroundScan
+06-22 17:05:03.999 17255 17255 D DiscoveryManager : start
+06-22 17:05:03.999 17255 17255 I BtGovernor : isAvailable enter
+06-22 17:05:04.012 17255 17255 D BtGovernor : BleApi startBackGroundScan
+06-22 17:05:04.012 17255 17255 D BleBackGround : startBindbackGoundService
+06-22 17:05:04.016 17255 17255 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 17:05:04.021 17255 17255 E BleBackGround : MiConnect bind MiNearby background success
+06-22 17:05:04.026 17255 17255 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 17:05:24.028 17255 17255 I BtGovernor : isAvailable enter
+06-22 17:05:24.029 17255 17255 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:12:24.672 17255 17255 D DiscoveryManager : start
+06-22 19:12:24.677 17255 17255 I BtGovernor : isAvailable enter
+06-22 19:12:24.679 17255 17255 D BtGovernor : BleApi startBackGroundScan
+06-22 19:12:24.679 17255 17255 D BleBackGround : startBindbackGoundService
+06-22 19:12:24.699 17255 17255 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:12:24.751 17255 17255 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:12:24.761 17255 17255 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:12:27.509 17255 17255 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 19:12:33.670 17255 17255 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 19:12:41.914 17255 17255 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 19:13:32.559 11229 11229 I LogUtil : LogUtils init, A new application started
+06-22 19:13:32.587 11229 11229 D PermissionManager : mIsSelfDebugSignature = false
+06-22 19:13:32.602 11229 11229 I PermissionManager : load permission file
+06-22 19:13:32.606 11229 11229 I PermissionManager : failed to check uid for com.miui.mishare.connectivity -1
+06-22 19:13:32.609 11229 11229 I PermissionManager : failed to check uid for com.miui.huanji -1
+06-22 19:13:32.611 11229 11229 I PermissionManager : failed to check uid for com.iot.xiaomi.miconnecttest -1
+06-22 19:13:32.612 11229 11229 I PermissionManager : failed to check uid for com.xiaomi.idm_autotest_android -1
+06-22 19:13:32.613 11229 11229 I PermissionManager : failed to check uid for com.miui.video -1
+06-22 19:13:32.615 11229 11229 I PermissionManager : failed to check uid for com.xiaomi.mitime -1
+06-22 19:13:32.617 11229 11229 I PermissionManager : failed to check uid for com.xiaomi.wearable -1
+06-22 19:13:32.617 11229 11229 I PermissionManager : perm loaded v: 7
+06-22 19:13:32.618 11229 11229 D ConfigMgr : config file: /data/user/0/com.xiaomi.mi_connect_service/files/config/config.json
+06-22 19:13:32.619 11229 11229 D DeviceUtil : platform type property: nosdcard
+06-22 19:13:32.619 11229 11229 D RegionUtil : ID
+06-22 19:13:32.670 11229 11255 I CloudCtrFileJob : work
+06-22 19:13:32.682 11229 11229 D PropertyUtils : is agreed: false
+06-22 19:13:32.690 11229 11229 D DeviceUtil : platform type property: nosdcard
+06-22 19:13:32.691 11229 11229 E Constant : is international: true
+06-22 19:13:32.691 11229 11229 E g:miconnect:  : not available
+06-22 19:13:32.691 11229 11229 E stat: MiotReportManager : -----init------: not available
+06-22 19:13:32.699 11229 11229 I MiConnectService : onCreate versionName:1.3.326 userId:0
+06-22 19:13:32.730 11229 11229 D PropertyUtils : is agreed: false
+06-22 19:13:32.732 11229 11229 E g:miconnect:  : not available
+06-22 19:13:32.732 11229 11229 D DeviceUtil : platform type property: nosdcard
+06-22 19:13:32.735 11229 11229 D BonjourGovernor : BonjourGovernor ver: 9.8.09.01
+06-22 19:13:32.738 11229 11257 D TimerStack : load all start
+06-22 19:13:32.758 11229 11229 D BonjourGovernor : DTLS Disabled
+06-22 19:13:32.790 11229 11257 D TimerStack : load all 52
+06-22 19:13:32.999 11229 11229 D BonjourGovernor : Start coapserver success, retry:0
+06-22 19:13:33.011 11229 11255 I CloudCtrFileJob : done
+06-22 19:13:33.011 11229 11255 D CloudCtrBaseJob : work
+06-22 19:13:33.022 11229 11229 D MiConnectService : SYSTEM userId else: 0,APP USERID1000
+06-22 19:13:33.023 11229 11229 D BtGovernor : BleApi getBleGovernor
+06-22 19:13:33.023 11229 11229 D BtGovernor : BleApi BtGovernor Constructor, dev.1.2.0
+06-22 19:13:33.024 11229 11229 D DeviceUtil : platform type property: nosdcard
+06-22 19:13:33.024 11229 11229 D DeviceUtil : platform type property: nosdcard
+06-22 19:13:33.047 11229 11229 I BleClientService :  BleAttributeClientOperation Consturctor, dev.1.2.0
+06-22 19:13:33.048 11229 11229 I Discovery :  BleDiscovery Consturctor, dev.1.2.0
+06-22 19:13:33.048 11229 11229 D Discovery : scan mode=2
+06-22 19:13:33.050 11229 11229 I BleServerService :  BleAttributeServerOperation Consturctor, dev.1.2.0
+06-22 19:13:33.050 11229 11229 I BleAdvertising :  BleAdvertising Consturctor, dev.1.2.0
+06-22 19:13:33.058 11229 11229 I BleClientViaAttService :  BleClientService Consturctor, dev.1.2.0
+06-22 19:13:33.059 11229 11229 I BleServerViaAttService :  BleServerService Consturctor, dev.1.2.0
+06-22 19:13:33.059 11229 11229 E BtGovernor : Log enabled =false
+06-22 19:13:33.059 11229 11229 D BtGovernor : BleApi setCallback
+06-22 19:13:33.059 11229 11229 D BleBackGround : setCallback is set
+06-22 19:13:33.059 11229 11229 D BtGovernor : BleApi enableStateListener
+06-22 19:13:33.059 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:13:33.062 11229 11229 D BtGovernor : BleApi init enter,dev.1.2.0
+06-22 19:13:33.071 11229 11229 D BleClientService : init enter, mIsInitiated=false
+06-22 19:13:33.071 11229 11229 D Discovery : init enter, mIsInitiated=false
+06-22 19:13:33.074 11229 11229 D BleServerService : init enter, mIsInitiated=false
+06-22 19:13:33.074 11229 11229 D BleServerService : Info: gattOperationValid is false
+06-22 19:13:33.074 11229 11229 D BleAdvertising : init enter, mIsInitiated=false
+06-22 19:13:33.075 11229 11229 D BtGovernor : BleApi setupRfcomm enter
+06-22 19:13:33.078 11229 11229 D BluetoothRfcommService : start
+06-22 19:13:33.119 11229 11229 D BleClientViaAttService : init enter, mIsInitiated=false
+06-22 19:13:33.119 11229 11229 D BleServerViaAttService : init enter, mIsInitiated=false
+06-22 19:13:33.119 11229 11229 D BleServerViaAttService : Info: gattOperationValid is false
+06-22 19:13:33.119 11229 11229 D BleBackGround : startBindBackGoundService
+06-22 19:13:33.120 11229 11229 D DeviceUtil : platform type property: nosdcard
+06-22 19:13:33.120 11229 11281 D BluetoothRfcommService : Socket Type: Insecure BEGIN mAcceptThread Thread[Thread-2,5,main]
+06-22 19:13:33.120 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:13:33.120 11229 11281 D BluetoothRfcommService : mState : 1
+06-22 19:13:33.129 11229 11229 D WifiGovernor : Wifi Governor Constructor
+06-22 19:13:33.146 11229 11229 D WifiGovernor : DTLS Disabled
+06-22 19:13:33.148 11229 11229 E WifiGovernor : isAvailable() : true
+06-22 19:13:33.148 11229 11229 D WifiGovernor : Init enter
+06-22 19:13:33.151 11229 11229 D WifiGovernor : Start coap server success, retry:0
+06-22 19:13:33.152 11229 11229 D DeviceUtil : platform type property: nosdcard
+06-22 19:13:33.156 11229 11229 I NfcAdvPresenter : registerReceiver
+06-22 19:13:33.156 11229 11229 D DeviceUtil : platform type property: nosdcard
+06-22 19:13:33.156 11229 11229 D DeviceUtil : platform type property: nosdcard
+06-22 19:13:33.156 11229 11229 I NfcScanHelper : ---start---state:IDEL
+06-22 19:13:33.159 11229 11229 I NfcMessagePublisher : use NfcScanHelper
+06-22 19:13:33.159 11229 11229 D DeviceUtil : platform type property: nosdcard
+06-22 19:13:33.160 11229 11229 D DeviceUtil : platform type property: nosdcard
+06-22 19:13:33.161 11229 11229 I NfcGovernor : isAvailable false
+06-22 19:13:33.161 11229 11229 D MiConnectService : NFC available false
+06-22 19:13:33.162 11229 11229 D DeviceUtil : platform type property: nosdcard
+06-22 19:13:33.162 11229 11229 I NfcGovernor : isAvailable false
+06-22 19:13:33.163 11229 11229 D BtGovernor : BleApi setAdvertisingCallback enter
+06-22 19:13:33.163 11229 11229 D BtGovernor : BleApi setDiscoveryCallback enter
+06-22 19:13:33.163 11229 11229 D Discovery : setCallback enter
+06-22 19:13:33.163 11229 11229 D BleBackGround : setBackGroundDiscoveryCallback enter
+06-22 19:13:33.168 11229 11255 D CloudCtrBaseJob : done
+06-22 19:13:33.175 11229 11229 D BtGovernor : BleApi setAttributeCallback enter
+06-22 19:13:33.334 11229 11229 D MiIdentity : load local
+06-22 19:13:33.334 11229 11229 D MiConnectService : ScreenStateObserver.EnableObserve main
+06-22 19:13:33.337 11229 11229 D MiConnectService : UserSwitchedObserver.EnableObserve main
+06-22 19:13:33.350 11229 11229 D MiConnectService : Register name change observer for phone
+06-22 19:13:33.350 11229 11229 D MiConnectService : PhoneSystemNameChangeObserver.EnableObserve main
+06-22 19:13:33.493 11229 11229 D IDMNative : init
+06-22 19:13:33.498 11229 11229 D IDMNative : registerIotService, uuid:ffff3ffc-09da-4bed-9652-f507366fcfc5
+06-22 19:13:33.508 11229 11229 D DeviceUtil : platform type property: nosdcard
+06-22 19:13:33.512 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:13:33.538 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:13:33.550 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:13:33.557 11229 11229 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 19:13:33.558 11229 11229 D CommStateMonitor : onReceive: android.net.wifi.WIFI_STATE_CHANGED
+06-22 19:13:33.558 11229 11229 D CommStateMonitor : onReceive: android.net.wifi.STATE_CHANGE
+06-22 19:13:33.558 11229 11229 D CommStateMonitor : isConnected: false
+06-22 19:17:53.430 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:17:53.438 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:18:11.779 11229 11229 D DiscoveryManager : start
+06-22 19:18:11.779 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:18:11.784 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:18:11.785 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:18:11.796 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:18:11.821 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:18:11.830 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:22:01.596 11229 11229 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 19:22:18.204 11229 11229 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 19:22:26.924 11229 11229 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 19:23:21.204 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:23:21.206 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:26:40.868 11229 11229 D DiscoveryManager : start
+06-22 19:26:40.869 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:26:40.877 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:26:40.877 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:26:40.896 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:26:40.933 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:26:40.943 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:26:55.378 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:26:55.382 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:27:13.973 11229 11229 D DiscoveryManager : start
+06-22 19:27:13.973 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:27:13.975 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:27:13.975 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:27:13.979 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:27:13.983 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:27:13.988 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:27:48.229 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:27:48.230 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:28:01.207 11229 11229 D DiscoveryManager : start
+06-22 19:28:01.207 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:28:01.209 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:28:01.209 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:28:01.228 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:28:01.263 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:28:01.275 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:29:16.434 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:29:16.436 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:34:01.680 11229 11229 D DiscoveryManager : start
+06-22 19:34:01.680 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:34:01.687 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:34:01.687 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:34:01.691 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:34:01.703 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:34:01.706 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:34:03.584 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:34:03.586 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:35:21.787 11229 11229 D DiscoveryManager : start
+06-22 19:35:21.787 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:35:21.788 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:35:21.788 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:35:21.794 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:35:21.806 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:35:21.813 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:35:23.258 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:35:23.260 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:35:27.954 11229 11229 D DiscoveryManager : start
+06-22 19:35:27.954 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:35:27.958 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:35:27.958 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:35:27.963 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:35:27.973 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:35:27.982 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:35:37.927 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:35:37.935 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:35:38.181 11229 11229 D DiscoveryManager : start
+06-22 19:35:38.181 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:35:38.182 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:35:38.182 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:35:38.185 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:35:38.194 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:35:38.198 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:35:40.468 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:35:40.469 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:36:15.511 11229 11229 D DiscoveryManager : start
+06-22 19:36:15.512 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:36:15.523 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:36:15.523 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:36:15.527 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:36:15.533 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:36:15.541 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:36:19.260 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:36:19.263 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:36:19.947 11229 11229 D DiscoveryManager : start
+06-22 19:36:19.947 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:36:19.947 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:36:19.948 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:36:19.956 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:36:19.963 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:36:19.970 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:36:21.370 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:36:21.371 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:36:46.446 11229 11229 D DiscoveryManager : start
+06-22 19:36:46.446 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:36:46.449 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:36:46.449 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:36:46.453 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:36:46.457 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:36:46.460 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:37:06.356 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:37:06.357 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:37:31.745 11229 11229 D DiscoveryManager : start
+06-22 19:37:31.745 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:37:31.747 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:37:31.747 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:37:31.752 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:37:31.766 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:37:31.779 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:37:35.128 11229 11229 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 19:37:36.821 11229 11229 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 19:37:37.835 11229 11229 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 19:37:38.247 11229 11229 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 19:39:15.667 11229 11229 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 19:39:17.550 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:39:17.554 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:40:17.647 11229 11229 D DiscoveryManager : start
+06-22 19:40:17.647 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:40:17.658 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:40:17.658 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:40:17.667 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:40:17.673 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:40:17.675 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:40:23.285 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:40:23.288 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:42:44.031 11229 11229 D DiscoveryManager : start
+06-22 19:42:44.031 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:42:44.033 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:42:44.033 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:42:44.038 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:42:44.043 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:42:44.053 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:42:45.425 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:42:45.427 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:42:51.521 11229 11229 D DiscoveryManager : start
+06-22 19:42:51.521 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:42:51.524 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:42:51.524 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:42:51.530 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:42:51.544 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:42:51.552 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:42:53.592 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:42:53.594 11229 11229 D BtGovernor : BleApi stopbackGroundScan
+06-22 19:46:00.719 11229 11229 D DiscoveryManager : start
+06-22 19:46:00.719 11229 11229 I BtGovernor : isAvailable enter
+06-22 19:46:00.720 11229 11229 D BtGovernor : BleApi startBackGroundScan
+06-22 19:46:00.720 11229 11229 D BleBackGround : startBindbackGoundService
+06-22 19:46:00.723 11229 11229 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:46:00.730 11229 11229 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:46:00.737 11229 11229 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:46:44.219 11229 11229 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 19:47:11.454 28260 28260 I LogUtil : LogUtils init, A new application started
+06-22 19:47:11.476 28260 28260 D PermissionManager : mIsSelfDebugSignature = false
+06-22 19:47:11.485 28260 28260 I PermissionManager : load permission file
+06-22 19:47:11.489 28260 28260 I PermissionManager : failed to check uid for com.miui.mishare.connectivity -1
+06-22 19:47:11.491 28260 28260 I PermissionManager : failed to check uid for com.miui.huanji -1
+06-22 19:47:11.493 28260 28260 I PermissionManager : failed to check uid for com.iot.xiaomi.miconnecttest -1
+06-22 19:47:11.494 28260 28260 I PermissionManager : failed to check uid for com.xiaomi.idm_autotest_android -1
+06-22 19:47:11.495 28260 28260 I PermissionManager : failed to check uid for com.miui.video -1
+06-22 19:47:11.498 28260 28260 I PermissionManager : failed to check uid for com.xiaomi.mitime -1
+06-22 19:47:11.501 28260 28260 I PermissionManager : failed to check uid for com.xiaomi.wearable -1
+06-22 19:47:11.501 28260 28260 I PermissionManager : perm loaded v: 7
+06-22 19:47:11.502 28260 28260 D ConfigMgr : config file: /data/user/0/com.xiaomi.mi_connect_service/files/config/config.json
+06-22 19:47:11.503 28260 28260 D DeviceUtil : platform type property: nosdcard
+06-22 19:47:11.503 28260 28260 D RegionUtil : ID
+06-22 19:47:11.574 28260 28288 I CloudCtrFileJob : work
+06-22 19:47:11.581 28260 28260 D PropertyUtils : is agreed: false
+06-22 19:47:11.589 28260 28260 D DeviceUtil : platform type property: nosdcard
+06-22 19:47:11.589 28260 28260 E Constant : is international: true
+06-22 19:47:11.589 28260 28260 E g:miconnect:  : not available
+06-22 19:47:11.590 28260 28260 E stat: MiotReportManager : -----init------: not available
+06-22 19:47:11.597 28260 28260 I MiConnectService : onCreate versionName:1.3.326 userId:0
+06-22 19:47:11.631 28260 28260 D PropertyUtils : is agreed: false
+06-22 19:47:11.633 28260 28260 E g:miconnect:  : not available
+06-22 19:47:11.633 28260 28260 D DeviceUtil : platform type property: nosdcard
+06-22 19:47:11.634 28260 28260 D BonjourGovernor : BonjourGovernor ver: 9.8.09.01
+06-22 19:47:11.637 28260 28290 D TimerStack : load all start
+06-22 19:47:11.658 28260 28260 D BonjourGovernor : DTLS Disabled
+06-22 19:47:11.702 28260 28290 D TimerStack : load all 65
+06-22 19:47:11.896 28260 28260 D BonjourGovernor : Start coapserver success, retry:0
+06-22 19:47:11.915 28260 28260 D MiConnectService : SYSTEM userId else: 0,APP USERID1000
+06-22 19:47:11.915 28260 28260 D BtGovernor : BleApi getBleGovernor
+06-22 19:47:11.915 28260 28260 D BtGovernor : BleApi BtGovernor Constructor, dev.1.2.0
+06-22 19:47:11.918 28260 28260 D DeviceUtil : platform type property: nosdcard
+06-22 19:47:11.921 28260 28260 D DeviceUtil : platform type property: nosdcard
+06-22 19:47:11.947 28260 28260 I BleClientService :  BleAttributeClientOperation Consturctor, dev.1.2.0
+06-22 19:47:11.948 28260 28260 I Discovery :  BleDiscovery Consturctor, dev.1.2.0
+06-22 19:47:11.949 28260 28260 D Discovery : scan mode=2
+06-22 19:47:11.951 28260 28260 I BleServerService :  BleAttributeServerOperation Consturctor, dev.1.2.0
+06-22 19:47:11.951 28260 28260 I BleAdvertising :  BleAdvertising Consturctor, dev.1.2.0
+06-22 19:47:11.958 28260 28260 I BleClientViaAttService :  BleClientService Consturctor, dev.1.2.0
+06-22 19:47:11.958 28260 28260 I BleServerViaAttService :  BleServerService Consturctor, dev.1.2.0
+06-22 19:47:11.958 28260 28260 E BtGovernor : Log enabled =false
+06-22 19:47:11.958 28260 28260 D BtGovernor : BleApi setCallback
+06-22 19:47:11.958 28260 28260 D BleBackGround : setCallback is set
+06-22 19:47:11.958 28260 28260 D BtGovernor : BleApi enableStateListener
+06-22 19:47:11.959 28260 28260 I BtGovernor : isAvailable enter
+06-22 19:47:11.967 28260 28260 D BtGovernor : BleApi init enter,dev.1.2.0
+06-22 19:47:11.971 28260 28260 D BleClientService : init enter, mIsInitiated=false
+06-22 19:47:11.972 28260 28260 D Discovery : init enter, mIsInitiated=false
+06-22 19:47:11.974 28260 28260 D BleServerService : init enter, mIsInitiated=false
+06-22 19:47:11.974 28260 28260 D BleServerService : Info: gattOperationValid is false
+06-22 19:47:11.974 28260 28260 D BleAdvertising : init enter, mIsInitiated=false
+06-22 19:47:11.976 28260 28260 D BtGovernor : BleApi setupRfcomm enter
+06-22 19:47:11.978 28260 28288 I CloudCtrFileJob : done
+06-22 19:47:11.978 28260 28288 D CloudCtrBaseJob : work
+06-22 19:47:11.987 28260 28260 D BluetoothRfcommService : start
+06-22 19:47:12.095 28260 28260 D BleClientViaAttService : init enter, mIsInitiated=false
+06-22 19:47:12.095 28260 28260 D BleServerViaAttService : init enter, mIsInitiated=false
+06-22 19:47:12.095 28260 28260 D BleServerViaAttService : Info: gattOperationValid is false
+06-22 19:47:12.096 28260 28260 D BleBackGround : startBindBackGoundService
+06-22 19:47:12.096 28260 28260 D DeviceUtil : platform type property: nosdcard
+06-22 19:47:12.097 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 19:47:12.105 28260 28260 D WifiGovernor : Wifi Governor Constructor
+06-22 19:47:12.107 28260 28312 D BluetoothRfcommService : Socket Type: Insecure BEGIN mAcceptThread Thread[Thread-2,5,main]
+06-22 19:47:12.107 28260 28312 D BluetoothRfcommService : mState : 1
+06-22 19:47:12.135 28260 28260 D WifiGovernor : DTLS Disabled
+06-22 19:47:12.137 28260 28260 E WifiGovernor : isAvailable() : true
+06-22 19:47:12.137 28260 28260 D WifiGovernor : Init enter
+06-22 19:47:12.143 28260 28260 D WifiGovernor : Start coap server success, retry:0
+06-22 19:47:12.144 28260 28260 D DeviceUtil : platform type property: nosdcard
+06-22 19:47:12.147 28260 28260 I NfcAdvPresenter : registerReceiver
+06-22 19:47:12.148 28260 28260 D DeviceUtil : platform type property: nosdcard
+06-22 19:47:12.149 28260 28260 D DeviceUtil : platform type property: nosdcard
+06-22 19:47:12.149 28260 28260 I NfcScanHelper : ---start---state:IDEL
+06-22 19:47:12.151 28260 28260 I NfcMessagePublisher : use NfcScanHelper
+06-22 19:47:12.152 28260 28260 D DeviceUtil : platform type property: nosdcard
+06-22 19:47:12.155 28260 28260 D DeviceUtil : platform type property: nosdcard
+06-22 19:47:12.156 28260 28260 I NfcGovernor : isAvailable false
+06-22 19:47:12.156 28260 28260 D MiConnectService : NFC available false
+06-22 19:47:12.157 28260 28260 D DeviceUtil : platform type property: nosdcard
+06-22 19:47:12.157 28260 28260 I NfcGovernor : isAvailable false
+06-22 19:47:12.157 28260 28260 D BtGovernor : BleApi setAdvertisingCallback enter
+06-22 19:47:12.158 28260 28260 D BtGovernor : BleApi setDiscoveryCallback enter
+06-22 19:47:12.158 28260 28260 D Discovery : setCallback enter
+06-22 19:47:12.158 28260 28260 D BleBackGround : setBackGroundDiscoveryCallback enter
+06-22 19:47:12.166 28260 28288 D CloudCtrBaseJob : done
+06-22 19:47:12.173 28260 28260 D BtGovernor : BleApi setAttributeCallback enter
+06-22 19:47:12.322 28260 28260 D MiIdentity : load local
+06-22 19:47:12.322 28260 28260 D MiConnectService : ScreenStateObserver.EnableObserve main
+06-22 19:47:12.324 28260 28260 D MiConnectService : UserSwitchedObserver.EnableObserve main
+06-22 19:47:12.347 28260 28260 D MiConnectService : Register name change observer for phone
+06-22 19:47:12.347 28260 28260 D MiConnectService : PhoneSystemNameChangeObserver.EnableObserve main
+06-22 19:47:12.484 28260 28260 D IDMNative : init
+06-22 19:47:12.490 28260 28260 D IDMNative : registerIotService, uuid:ffff3ffc-09da-4bed-9652-f507366fcfc5
+06-22 19:47:12.500 28260 28260 D DeviceUtil : platform type property: nosdcard
+06-22 19:47:12.504 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 19:47:12.545 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 19:47:12.595 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 19:47:12.602 28260 28260 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 19:47:12.602 28260 28260 D CommStateMonitor : onReceive: android.net.wifi.WIFI_STATE_CHANGED
+06-22 19:47:12.602 28260 28260 D CommStateMonitor : onReceive: android.net.wifi.STATE_CHANGE
+06-22 19:47:12.603 28260 28260 D CommStateMonitor : isConnected: false
+06-22 20:02:08.711 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:02:08.714 28260 28260 D BtGovernor : BleApi stopbackGroundScan
+06-22 20:02:41.211 28260 28260 D DiscoveryManager : start
+06-22 20:02:41.211 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:02:41.213 28260 28260 D BtGovernor : BleApi startBackGroundScan
+06-22 20:02:41.213 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 20:02:41.231 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:02:41.244 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:02:41.248 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:02:42.736 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:02:42.739 28260 28260 D BtGovernor : BleApi stopbackGroundScan
+06-22 20:03:00.204 28260 28260 D DiscoveryManager : start
+06-22 20:03:00.205 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:03:00.206 28260 28260 D BtGovernor : BleApi startBackGroundScan
+06-22 20:03:00.206 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 20:03:00.217 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:03:00.241 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:03:00.244 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:03:15.786 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:03:15.789 28260 28260 D BtGovernor : BleApi stopbackGroundScan
+06-22 20:03:24.694 28260 28260 D DiscoveryManager : start
+06-22 20:03:24.694 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:03:24.695 28260 28260 D BtGovernor : BleApi startBackGroundScan
+06-22 20:03:24.695 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 20:03:24.699 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:03:24.705 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:03:24.706 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:03:25.896 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:03:25.898 28260 28260 D BtGovernor : BleApi stopbackGroundScan
+06-22 20:03:30.632 28260 28260 D DiscoveryManager : start
+06-22 20:03:30.634 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:03:30.636 28260 28260 D BtGovernor : BleApi startBackGroundScan
+06-22 20:03:30.637 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 20:03:30.641 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:03:30.649 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:03:30.651 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:03:32.772 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:03:32.777 28260 28260 D BtGovernor : BleApi stopbackGroundScan
+06-22 20:03:53.994 28260 28260 D DiscoveryManager : start
+06-22 20:03:53.994 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:03:53.996 28260 28260 D BtGovernor : BleApi startBackGroundScan
+06-22 20:03:53.997 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 20:03:54.002 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:03:54.023 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:03:54.030 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:03:55.739 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:03:55.742 28260 28260 D BtGovernor : BleApi stopbackGroundScan
+06-22 20:04:29.785 28260 28260 D DiscoveryManager : start
+06-22 20:04:29.786 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:04:29.791 28260 28260 D BtGovernor : BleApi startBackGroundScan
+06-22 20:04:29.791 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 20:04:29.800 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:04:29.808 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:04:29.809 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:04:43.453 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:04:43.454 28260 28260 D BtGovernor : BleApi stopbackGroundScan
+06-22 20:04:54.095 28260 28260 D DiscoveryManager : start
+06-22 20:04:54.095 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:04:54.097 28260 28260 D BtGovernor : BleApi startBackGroundScan
+06-22 20:04:54.097 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 20:04:54.101 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:04:54.110 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:04:54.112 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:05:01.645 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:05:01.646 28260 28260 D BtGovernor : BleApi stopbackGroundScan
+06-22 20:05:19.911 28260 28260 D DiscoveryManager : start
+06-22 20:05:19.912 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:05:19.913 28260 28260 D BtGovernor : BleApi startBackGroundScan
+06-22 20:05:19.913 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 20:05:19.920 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:05:19.932 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:05:19.935 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:05:25.930 28260 28260 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 20:05:27.550 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:05:27.552 28260 28260 D BtGovernor : BleApi stopbackGroundScan
+06-22 20:05:32.124 28260 28260 D DiscoveryManager : start
+06-22 20:05:32.124 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:05:32.127 28260 28260 D BtGovernor : BleApi startBackGroundScan
+06-22 20:05:32.127 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 20:05:32.131 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:05:32.142 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:05:32.147 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:05:42.557 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:05:42.559 28260 28260 D BtGovernor : BleApi stopbackGroundScan
+06-22 20:05:53.141 28260 28260 D DiscoveryManager : start
+06-22 20:05:53.141 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:05:53.143 28260 28260 D BtGovernor : BleApi startBackGroundScan
+06-22 20:05:53.143 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 20:05:53.150 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:05:53.153 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:05:53.154 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:05:55.713 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:05:55.714 28260 28260 D BtGovernor : BleApi stopbackGroundScan
+06-22 20:06:28.004 28260 28260 D DiscoveryManager : start
+06-22 20:06:28.004 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:06:28.009 28260 28260 D BtGovernor : BleApi startBackGroundScan
+06-22 20:06:28.009 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 20:06:28.018 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:06:28.025 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:06:28.036 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:06:43.056 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:06:43.059 28260 28260 D BtGovernor : BleApi stopbackGroundScan
+06-22 20:09:29.708 28260 28260 D DiscoveryManager : start
+06-22 20:09:29.708 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:09:29.713 28260 28260 D BtGovernor : BleApi startBackGroundScan
+06-22 20:09:29.714 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 20:09:29.717 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:09:29.721 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:09:29.728 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:09:30.916 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:09:30.918 28260 28260 D BtGovernor : BleApi stopbackGroundScan
+06-22 20:17:30.504 28260 28260 D DiscoveryManager : start
+06-22 20:17:30.504 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:17:30.509 28260 28260 D BtGovernor : BleApi startBackGroundScan
+06-22 20:17:30.509 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 20:17:30.523 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:17:30.533 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:17:30.542 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:17:40.877 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:17:40.879 28260 28260 D BtGovernor : BleApi stopbackGroundScan
+06-22 20:17:42.259 28260 28260 D DiscoveryManager : start
+06-22 20:17:42.259 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:17:42.260 28260 28260 D BtGovernor : BleApi startBackGroundScan
+06-22 20:17:42.261 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 20:17:42.267 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:17:42.272 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:17:42.274 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:17:44.271 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:17:44.272 28260 28260 D BtGovernor : BleApi stopbackGroundScan
+06-22 20:18:44.939 28260 28260 D DiscoveryManager : start
+06-22 20:18:44.939 28260 28260 I BtGovernor : isAvailable enter
+06-22 20:18:44.941 28260 28260 D BtGovernor : BleApi startBackGroundScan
+06-22 20:18:44.941 28260 28260 D BleBackGround : startBindbackGoundService
+06-22 20:18:44.946 28260 28260 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:18:44.954 28260 28260 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:18:44.956 28260 28260 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:18:48.366 28260 28260 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 20:18:50.947 28260 28260 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 20:18:51.408 28260 28260 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 20:18:51.729 28260 28260 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 20:18:57.788 28260 28260 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 20:19:11.259 28260 28260 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 20:19:11.694 28260 28260 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 20:19:22.986 28260 28260 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 20:19:37.977 28260 28260 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 20:19:40.416 28260 28260 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 20:21:09.859 12154 12154 I LogUtil : LogUtils init, A new application started
+06-22 20:21:09.886 12154 12154 D PermissionManager : mIsSelfDebugSignature = false
+06-22 20:21:09.890 12154 12154 I PermissionManager : load permission file
+06-22 20:21:09.892 12154 12154 I PermissionManager : failed to check uid for com.miui.mishare.connectivity -1
+06-22 20:21:09.894 12154 12154 I PermissionManager : failed to check uid for com.miui.huanji -1
+06-22 20:21:09.897 12154 12154 I PermissionManager : failed to check uid for com.iot.xiaomi.miconnecttest -1
+06-22 20:21:09.898 12154 12154 I PermissionManager : failed to check uid for com.xiaomi.idm_autotest_android -1
+06-22 20:21:09.898 12154 12154 I PermissionManager : failed to check uid for com.miui.video -1
+06-22 20:21:09.899 12154 12154 I PermissionManager : failed to check uid for com.xiaomi.mitime -1
+06-22 20:21:09.902 12154 12154 I PermissionManager : failed to check uid for com.xiaomi.wearable -1
+06-22 20:21:09.902 12154 12154 I PermissionManager : perm loaded v: 7
+06-22 20:21:09.902 12154 12154 D ConfigMgr : config file: /data/user/0/com.xiaomi.mi_connect_service/files/config/config.json
+06-22 20:21:09.903 12154 12154 D DeviceUtil : platform type property: nosdcard
+06-22 20:21:09.904 12154 12154 D RegionUtil : ID
+06-22 20:21:09.966 12154 12184 I CloudCtrFileJob : work
+06-22 20:21:09.973 12154 12154 D PropertyUtils : is agreed: false
+06-22 20:21:09.979 12154 12154 D DeviceUtil : platform type property: nosdcard
+06-22 20:21:09.979 12154 12154 E Constant : is international: true
+06-22 20:21:09.980 12154 12154 E g:miconnect:  : not available
+06-22 20:21:09.980 12154 12154 E stat: MiotReportManager : -----init------: not available
+06-22 20:21:09.984 12154 12154 I MiConnectService : onCreate versionName:1.3.326 userId:0
+06-22 20:21:09.990 12154 12154 D PropertyUtils : is agreed: false
+06-22 20:21:09.991 12154 12154 E g:miconnect:  : not available
+06-22 20:21:09.991 12154 12154 D DeviceUtil : platform type property: nosdcard
+06-22 20:21:09.993 12154 12154 D BonjourGovernor : BonjourGovernor ver: 9.8.09.01
+06-22 20:21:09.998 12154 12186 D TimerStack : load all start
+06-22 20:21:10.019 12154 12154 D BonjourGovernor : DTLS Disabled
+06-22 20:21:10.053 12154 12186 D TimerStack : load all 54
+06-22 20:21:10.242 12154 12154 D BonjourGovernor : Start coapserver success, retry:0
+06-22 20:21:10.246 12154 12154 D MiConnectService : SYSTEM userId else: 0,APP USERID1000
+06-22 20:21:10.247 12154 12154 D BtGovernor : BleApi getBleGovernor
+06-22 20:21:10.247 12154 12154 D BtGovernor : BleApi BtGovernor Constructor, dev.1.2.0
+06-22 20:21:10.247 12154 12154 D DeviceUtil : platform type property: nosdcard
+06-22 20:21:10.248 12154 12154 D DeviceUtil : platform type property: nosdcard
+06-22 20:21:10.272 12154 12154 I BleClientService :  BleAttributeClientOperation Consturctor, dev.1.2.0
+06-22 20:21:10.272 12154 12154 I Discovery :  BleDiscovery Consturctor, dev.1.2.0
+06-22 20:21:10.272 12154 12154 D Discovery : scan mode=2
+06-22 20:21:10.274 12154 12154 I BleServerService :  BleAttributeServerOperation Consturctor, dev.1.2.0
+06-22 20:21:10.274 12154 12154 I BleAdvertising :  BleAdvertising Consturctor, dev.1.2.0
+06-22 20:21:10.281 12154 12154 I BleClientViaAttService :  BleClientService Consturctor, dev.1.2.0
+06-22 20:21:10.281 12154 12154 I BleServerViaAttService :  BleServerService Consturctor, dev.1.2.0
+06-22 20:21:10.282 12154 12154 E BtGovernor : Log enabled =false
+06-22 20:21:10.282 12154 12154 D BtGovernor : BleApi setCallback
+06-22 20:21:10.282 12154 12154 D BleBackGround : setCallback is set
+06-22 20:21:10.282 12154 12154 D BtGovernor : BleApi enableStateListener
+06-22 20:21:10.282 12154 12154 I BtGovernor : isAvailable enter
+06-22 20:21:10.285 12154 12154 D BtGovernor : BleApi init enter,dev.1.2.0
+06-22 20:21:10.287 12154 12154 D BleClientService : init enter, mIsInitiated=false
+06-22 20:21:10.287 12154 12154 D Discovery : init enter, mIsInitiated=false
+06-22 20:21:10.289 12154 12154 D BleServerService : init enter, mIsInitiated=false
+06-22 20:21:10.289 12154 12154 D BleServerService : Info: gattOperationValid is false
+06-22 20:21:10.289 12154 12154 D BleAdvertising : init enter, mIsInitiated=false
+06-22 20:21:10.290 12154 12154 D BtGovernor : BleApi setupRfcomm enter
+06-22 20:21:10.292 12154 12154 D BluetoothRfcommService : start
+06-22 20:21:10.319 12154 12154 D BleClientViaAttService : init enter, mIsInitiated=false
+06-22 20:21:10.319 12154 12154 D BleServerViaAttService : init enter, mIsInitiated=false
+06-22 20:21:10.319 12154 12154 D BleServerViaAttService : Info: gattOperationValid is false
+06-22 20:21:10.319 12154 12154 D BleBackGround : startBindBackGoundService
+06-22 20:21:10.319 12154 12154 D DeviceUtil : platform type property: nosdcard
+06-22 20:21:10.320 12154 12154 D BleBackGround : startBindbackGoundService
+06-22 20:21:10.320 12154 12207 D BluetoothRfcommService : Socket Type: Insecure BEGIN mAcceptThread Thread[Thread-2,5,main]
+06-22 20:21:10.320 12154 12207 D BluetoothRfcommService : mState : 1
+06-22 20:21:10.334 12154 12154 D WifiGovernor : Wifi Governor Constructor
+06-22 20:21:10.347 12154 12154 D WifiGovernor : DTLS Disabled
+06-22 20:21:10.348 12154 12154 E WifiGovernor : isAvailable() : true
+06-22 20:21:10.348 12154 12154 D WifiGovernor : Init enter
+06-22 20:21:10.351 12154 12154 D WifiGovernor : Start coap server success, retry:0
+06-22 20:21:10.352 12154 12154 D DeviceUtil : platform type property: nosdcard
+06-22 20:21:10.356 12154 12154 I NfcAdvPresenter : registerReceiver
+06-22 20:21:10.356 12154 12154 D DeviceUtil : platform type property: nosdcard
+06-22 20:21:10.356 12154 12154 D DeviceUtil : platform type property: nosdcard
+06-22 20:21:10.357 12154 12154 I NfcScanHelper : ---start---state:IDEL
+06-22 20:21:10.359 12154 12154 I NfcMessagePublisher : use NfcScanHelper
+06-22 20:21:10.359 12154 12154 D DeviceUtil : platform type property: nosdcard
+06-22 20:21:10.362 12154 12154 D DeviceUtil : platform type property: nosdcard
+06-22 20:21:10.363 12154 12154 I NfcGovernor : isAvailable false
+06-22 20:21:10.363 12154 12154 D MiConnectService : NFC available false
+06-22 20:21:10.364 12154 12154 D DeviceUtil : platform type property: nosdcard
+06-22 20:21:10.364 12154 12154 I NfcGovernor : isAvailable false
+06-22 20:21:10.364 12154 12154 D BtGovernor : BleApi setAdvertisingCallback enter
+06-22 20:21:10.365 12154 12154 D BtGovernor : BleApi setDiscoveryCallback enter
+06-22 20:21:10.365 12154 12154 D Discovery : setCallback enter
+06-22 20:21:10.366 12154 12154 D BleBackGround : setBackGroundDiscoveryCallback enter
+06-22 20:21:10.380 12154 12154 D BtGovernor : BleApi setAttributeCallback enter
+06-22 20:21:10.476 12154 12154 D MiIdentity : load local
+06-22 20:21:10.476 12154 12154 D MiConnectService : ScreenStateObserver.EnableObserve main
+06-22 20:21:10.478 12154 12154 D MiConnectService : UserSwitchedObserver.EnableObserve main
+06-22 20:21:10.493 12154 12154 D MiConnectService : Register name change observer for phone
+06-22 20:21:10.493 12154 12154 D MiConnectService : PhoneSystemNameChangeObserver.EnableObserve main
+06-22 20:21:10.642 12154 12154 D IDMNative : init
+06-22 20:21:10.651 12154 12154 D IDMNative : registerIotService, uuid:ffff3ffc-09da-4bed-9652-f507366fcfc5
+06-22 20:21:10.660 12154 12154 D DeviceUtil : platform type property: nosdcard
+06-22 20:21:10.665 12154 12154 E BleBackGround : MiConnect bind MiNearby background enter
+06-22 20:21:10.687 12154 12154 E BleBackGround : MiConnect bind MiNearby background success
+06-22 20:21:10.693 12154 12154 E BleBackGround : MiConnect bind MiNearby: 0
+06-22 20:21:10.699 12154 12154 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE
+06-22 20:21:10.699 12154 12154 D CommStateMonitor : onReceive: android.net.wifi.WIFI_STATE_CHANGED
+06-22 20:21:10.699 12154 12154 D CommStateMonitor : onReceive: android.net.wifi.STATE_CHANGE
+06-22 20:21:10.700 12154 12154 D CommStateMonitor : isConnected: false
+06-22 20:21:11.567 12154 12184 I CloudCtrFileJob : done
+06-22 20:21:11.568 12154 12184 D CloudCtrBaseJob : work
+06-22 20:21:12.758 12154 12184 D CloudCtrBaseJob : done
+06-22 20:36:42.122 12154 12154 D CommStateMonitor : onReceive: android.net.conn.CONNECTIVITY_CHANGE

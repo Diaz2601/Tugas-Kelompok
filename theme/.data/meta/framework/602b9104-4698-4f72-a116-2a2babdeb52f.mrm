@@ -1,0 +1,53 @@
+{
+  "localId": "602b9104-4698-4f72-a116-2a2babdeb52f",
+  "onlineId": null,
+  "assemblyId": "e5f1bb42-2791-46da-a52d-c5de0329da4a",
+  "productId": "e5f1bb42-2791-46da-a52d-c5de0329da4a",
+  "hash": "d587b784cdc5bde0ff7f208a39092bb3d8647c0a",
+  "platform": 10,
+  "size": 2316,
+  "updatedTime": 1406786563035,
+  "version": "1.3",
+  "authors": {
+    "zh_CN": "Rafael Henrique",
+    "fallback": "Rafael Henrique",
+    "en_US": "Rafael Henrique"
+  },
+  "designers": {
+    "zh_CN": "Rafael Henrique",
+    "fallback": "Rafael Henrique",
+    "en_US": "Rafael Henrique"
+  },
+  "titles": {
+    "zh_CN": "iPhone 12",
+    "fallback": "iPhone 12",
+    "en_US": "iPhone 12"
+  },
+  "descriptions": {
+    "fallback": "",
+    "en_US": "Make a donation to support my work: http://bit.ly/2KHQ140\nJoin my Telegram channel to stay on top of new themes and updates: http://t.me/MIUIThemesRH\nLink for download the theme wallpapers: http://bit.ly/2LNTE8N\n\nNotes:\n- To change the widget, double click on the widget name.\n- If the dialer, contacts and messaging apps of your device are from Google, it won't change, just the official Xiaomi dialer and messaging app.\n- The best DPI value is 392.\n- If you want to have the iOS style dock, don't apply other wallpapers, otherwise the blur of the dock will disappear.\n- This is just a theme, so don't expect your device to be 100% identical to an iPhone. If you don't like it, I suggest you buy an iPhone and don't complain to me or give a bad grade to the theme. Thank you for understanding!\n\nIf you have any other questions, ask me on Telegram: @Rafael_Henrique"
+  },
+  "builtInThumbnails": {
+    "en_US": []
+  },
+  "builtInPreviews": {
+    "en_US": []
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "f7960e8d-baee-430e-8358-6c3d541f689b",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null
+}

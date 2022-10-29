@@ -1,0 +1,185 @@
+{
+  "localId": "ef1acad9-019a-4058-afc9-599bc511d739",
+  "onlineId": "f66a949e-d3d5-4bf2-93f1-2185a77a0a3c",
+  "assemblyId": "e1f88ed7-0976-4d00-bbaa-9297b134924f",
+  "productId": "e1f88ed7-0976-4d00-bbaa-9297b134924f",
+  "hash": "efa4682639ea37ff33c082662cb464e9490ffc84",
+  "platform": 10,
+  "size": 37812153,
+  "updatedTime": 1406786563035,
+  "version": "1.0",
+  "authors": {
+    "en_US": "Wuli",
+    "zh_CN": "Wuli",
+    "fallback": "Wuli"
+  },
+  "designers": {
+    "en_US": "Wuli",
+    "zh_CN": "Wuli",
+    "fallback": "Wuli"
+  },
+  "titles": {
+    "en_US": "Camping Couple",
+    "zh_CN": "Camping Couple",
+    "fallback": "Camping Couple"
+  },
+  "descriptions": {
+    "en_US": "Description:Thank you for downloading our theme.\nUnlock Method:Slide to unlock.",
+    "zh_CN": "Description:Thank you for downloading our theme.\nUnlock Method:Slide to unlock.",
+    "fallback": "Description:Thank you for downloading our theme.\nUnlock Method:Slide to unlock."
+  },
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_lockscreen_0.jpg",
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg",
+      "en_US_statusbar_0.jpg",
+      "en_US_statusbar_1.jpg",
+      "en_US_clock_2x4_0.png"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_lockscreen_0.jpg",
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg",
+      "en_US_statusbar_0.jpg",
+      "en_US_statusbar_1.jpg",
+      "en_US_clock_2x4_0.png"
+    ]
+  },
+  "thumbnails": [
+    {
+      "localPath": "06fbfa429c8d04c730c5bec9671ebed4c1f5b34a8",
+      "onlinePath": "http://t3.market.mi-img.com/thumbnail/webp/w330q90/ThemeMarket/06fbfa429c8d04c730c5bec9671ebed4c1f5b34a8"
+    }
+  ],
+  "previews": [
+    {
+      "localPath": "06fbfa429c8d04c730c5bec9671ebed4c1f5b34a8",
+      "onlinePath": "http://t3.market.mi-img.com/thumbnail/webp/w1080q70/ThemeMarket/06fbfa429c8d04c730c5bec9671ebed4c1f5b34a8"
+    },
+    {
+      "localPath": "08fbf4129d8f03c759c5b6c9633eb7d4c0c40a7ea",
+      "onlinePath": "http://t3.market.mi-img.com/thumbnail/webp/w1080q70/ThemeMarket/08fbf4129d8f03c759c5b6c9633eb7d4c0c40a7ea"
+    },
+    {
+      "localPath": "06be0a48058ed44c50bfa595e95f23558ff5c0829",
+      "onlinePath": "http://t3.market.mi-img.com/thumbnail/webp/w1080q70/ThemeMarket/06be0a48058ed44c50bfa595e95f23558ff5c0829"
+    },
+    {
+      "localPath": "038c43494cc3541f8030f98baa7d30638efd66259",
+      "onlinePath": "http://t3.market.mi-img.com/thumbnail/webp/w1080q70/ThemeMarket/038c43494cc3541f8030f98baa7d30638efd66259"
+    },
+    {
+      "localPath": "038ef8483063f4fd41b0d6a1b8e332f5b07bbf7f6",
+      "onlinePath": "http://t3.market.mi-img.com/thumbnail/webp/w1080q70/ThemeMarket/038ef8483063f4fd41b0d6a1b8e332f5b07bbf7f6"
+    }
+  ],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "b7422d36-9315-432e-aa47-e939e2b63c25",
+      "resourceCode": "wallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "017572d1-9e87-4d98-9e39-642d0abefebd",
+      "resourceCode": "lockstyle",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "768965b7-db58-4e92-9dd4-473528ea35c1",
+      "resourceCode": "framework",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "9d3d4c26-5b84-45a8-94f2-e5a5fdfcd740",
+      "resourceCode": "launcher",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "6d3c40cc-7e41-4a70-9c67-da3001ceb3a7",
+      "resourceCode": "statusbar",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "59034a57-338e-4ba4-8a61-09ced5e9246b",
+      "resourceCode": "lockscreen",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "b56b2b72-6314-4fdb-8bd7-ed5bc39a7612",
+      "resourceCode": "com.miui.notification",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "c7217cc8-0157-410c-8f3b-00a1fa5ed021",
+      "resourceCode": "plugin_config.xml",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "ba495e04-0e78-4456-90a8-b568378faac5",
+      "resourceCode": "clock_2x4",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "d4acd00b-39fa-4c85-8473-7e541ff01bda",
+      "resourceCode": "com.miui.personalassistant",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "f3296874-9e7c-4ae3-90e7-1556353c0d82",
+      "resourceCode": "framework-miui-res",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "c62e922b-f38b-4faa-95f8-5d7610838ccc",
+      "resourceCode": "com.android.settings",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "acd43707-672d-4fb3-ba4c-ed1a5ae5dc44",
+      "resourceCode": "icons",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "c3db7100-0f0e-40b5-95e0-a9c687edd126",
+      "resourceCode": "com.miui.securitycenter",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null
+}
